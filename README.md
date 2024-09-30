@@ -6,7 +6,7 @@ The beat tracker that was presented in the paper is publicly available [here](ht
 
 ### Acknowledgments
 
-We thanks the authors of the annotations. Below you can find the link to our sources. Please cite the relevant papers when using these beat annotations.
+We thank the authors of the annotations. Below you can find the link to our sources. Please cite the relevant papers when using these beat annotations.
 - [asap](https://github.com/fosfrancesco/asap-dataset)
 - [ballroom](https://github.com/superbock/ISMIR2019)
 - [beatles](https://github.com/superbock/ISMIR2019)
