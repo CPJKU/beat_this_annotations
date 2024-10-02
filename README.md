@@ -1,3 +1,5 @@
+*!! This Repo is still under developement. Annotations may be updated without notice. Use it at your own risk !!*
+
 # Beat This! Annotations
 
 This repo contains the beat annotations for the ISMIR 2024 paper "[Beat This! Accurate Beat Tracking Without DBN Postprocessing](https://arxiv.org/abs/2407.21658)" by Francesco Foscarin, Jan Schlüter and Gerhard Widmer.
