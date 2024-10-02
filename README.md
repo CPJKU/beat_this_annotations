@@ -16,7 +16,7 @@ We thank the authors of the annotations. Below you can find the link to our sour
 - [gtzan](https://github.com/superbock/ISMIR2019)
 - [guitarset](https://github.com/marl/GuitarSet). This was downloaded from [mir_data](https://github.com/mir-dataset-loaders/mirdata/tree/master).
 - [hainsworth](https://github.com/superbock/ISMIR2019)
-- harmonix. We are still working to make the annotations for the harmonix dataset available. At this point, the data split is public, but not the beat annotations.
+- [harmonix](https://github.com/urinieto/harmonixset). The dataset was reproduced and partially corrected [in this paper](https://arxiv.org/abs/2205.14701). Please cite both the original paper and the modified version.
 - [hjdb](https://github.com/superbock/ISMIR2019)
 - [jaah](https://github.com/MTG/JAAH). The existing beat annotations were corrected and downbeat annotations were added by Richard Vogl and Francesco Foscarin.
 - [rwc](https://staff.aist.go.jp/m.goto/RWC-MDB/)
