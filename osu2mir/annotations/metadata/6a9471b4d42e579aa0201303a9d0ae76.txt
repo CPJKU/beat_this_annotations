@@ -1,0 +1,10 @@
+Title:Rock N Roll
+TitleUnicode:Rock N Roll
+Artist:Avril Lavigne
+ArtistUnicode:Avril Lavigne
+Creator:Zero__wind
+Version:Normal
+Source:
+Tags:UnitedWesin UWS punk
+BeatmapID:297853
+BeatmapSetID:112777

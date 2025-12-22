@@ -1,0 +1,10 @@
+Title:Mythic set ~ Heart-Stirring Urban Legends
+TitleUnicode:Mythic set 〜 心揺さぶる都市伝説
+Artist:Rin
+ArtistUnicode:凛
+Creator:yaspo
+Version:Easy
+Source:東方深秘録　～ Urban Legend in Limbo.
+Tags:touhou shinpiroku th14.5 心揺さぶる都市伝説  東方深秘録 sdafsf mithew
+BeatmapID:1429976
+BeatmapSetID:676064

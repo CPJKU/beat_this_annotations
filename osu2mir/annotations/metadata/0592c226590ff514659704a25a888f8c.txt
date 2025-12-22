@@ -1,0 +1,10 @@
+Title:End Credits
+TitleUnicode:End Credits
+Artist:Chase and Status ft. Plan B
+ArtistUnicode:Chase and Status ft. Plan B
+Creator:Kyshiro
+Version:Insane
+Source:
+Tags:Ami drum and bass no more idols dnb
+BeatmapID:355154
+BeatmapSetID:142668

@@ -1,0 +1,10 @@
+Title:Aoi Shiori (TV Size)
+TitleUnicode:青い栞 (TV Size)
+Artist:Galileo Galilei
+ArtistUnicode:ガリレオガリレイ
+Creator:Gero
+Version:Hard
+Source:Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai
+Tags:HabiHolic DakeDekaane Anohana Opening We Still Don't Know the Name of the Flower We Saw That Day A-1 Pictures
+BeatmapID:231155
+BeatmapSetID:83764

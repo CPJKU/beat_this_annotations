@@ -1,0 +1,10 @@
+Title:Kagami no Sekai ni wa Watashi shika Inai -another version-
+TitleUnicode:鏡の世界には私しかいない　-another version-
+Artist:monet
+ArtistUnicode:monet
+Creator:Mirash
+Version:Normal
+Source:素晴らしき日々～不連続存在～
+Tags:PandaHero SubaHibi Subarashiki Hibi ~Furenzoku Sonzai~ Wonderful Everyday ~Diskontinuierliches Dasein~ Naglfar no Senjou nite すかぢ SCA-ji ピクセルビー Pixelbee visual novel vn
+BeatmapID:1476801
+BeatmapSetID:685725

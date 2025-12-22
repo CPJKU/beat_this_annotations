@@ -1,0 +1,10 @@
+Title:distance (NARUTO Ver.)
+TitleUnicode:distance (NARUTO Ver.)
+Artist:LONG SHOT PARTY
+ArtistUnicode:LONG SHOT PARTY
+Creator:Monstrata
+Version:Natsu's Insane
+Source:NARUTO -ナルト- 疾風伝
+Tags:iyiyo gero akitoshi corinn natsu snownino_ naruto uzumaki sasuke uchiha sakura haruno kakashi hatake shippuuden shipuuden shippuden shipuden opening two 2 tv size anime
+BeatmapID:1383552
+BeatmapSetID:632130

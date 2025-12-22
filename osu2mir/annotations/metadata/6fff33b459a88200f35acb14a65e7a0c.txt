@@ -1,0 +1,10 @@
+Title:Palette
+TitleUnicode:Palette
+Artist:nano
+ArtistUnicode:ナノ
+Creator:DingGGu
+Version:Insane
+Source:
+Tags:yuyoyuppe vocaloid nicovideo megurine luka w_h_i_t_e
+BeatmapID:229662
+BeatmapSetID:83112

@@ -1,0 +1,10 @@
+Title:Startear
+TitleUnicode:Startear
+Artist:Haruna Luna
+ArtistUnicode:春奈るな
+Creator:Melophobia
+Version:Hard
+Source:ソードアート・オンラインⅡ
+Tags:Sword Art Online II SAO 2 Ending 2nd season shinon kirito phantom bullet gun gale ggo
+BeatmapID:490801
+BeatmapSetID:208426

@@ -1,0 +1,10 @@
+Title:Pitch Fucker
+TitleUnicode:Pitch Fucker
+Artist:Kraus
+ArtistUnicode:Kraus
+Creator:dsco
+Version:Extra: Panic
+Source:
+Tags:noise rock experimental indie end tomorrow will
+BeatmapID:1253047
+BeatmapSetID:559928

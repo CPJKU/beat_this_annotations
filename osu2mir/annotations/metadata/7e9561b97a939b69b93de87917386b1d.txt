@@ -1,0 +1,10 @@
+Title:Dororo (TV Size)
+TitleUnicode:Dororo (TV Size)
+Artist:ASIAN KUNG-FU GENERATION
+ArtistUnicode:ASIAN KUNG-FU GENERATION
+Creator:Agatsu
+Version:Hard
+Source:どろろ
+Tags:op opening shiinoha kotone tomadoi japanese anime
+BeatmapID:2024584
+BeatmapSetID:967405

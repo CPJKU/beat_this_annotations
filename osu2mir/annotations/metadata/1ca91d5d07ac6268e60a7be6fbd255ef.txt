@@ -1,0 +1,10 @@
+Title:ZETTAI ZETSUMEI (TV Size)
+TitleUnicode:絶体絶命 (TV Size)
+Artist:Co shu Nie
+ArtistUnicode:Cö shu Nie
+Creator:Agatsu
+Version:Fixxis' Insane
+Source:約束のネバーランド
+Tags:yakusoku no neverland the promised ed ending japanese rock anime kowari glaceon fixxis
+BeatmapID:1930333
+BeatmapSetID:924203

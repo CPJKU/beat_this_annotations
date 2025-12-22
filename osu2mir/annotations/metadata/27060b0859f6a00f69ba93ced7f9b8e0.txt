@@ -1,0 +1,10 @@
+Title:Bouken De-show De-show?
+TitleUnicode:冒険でしょでしょ？
+Artist:Aya Hirano
+ArtistUnicode:平野 綾
+Creator:Pata-Mon
+Version:Misure's Insane
+Source:涼宮ハルヒの憂鬱
+Tags:Azure Misure Suzumiya Haruhi no Yuuutsu Anime OP opening tv size 株式会社京都アニメーション Kyoto Animation 京アニ
+BeatmapID:1126923
+BeatmapSetID:531426

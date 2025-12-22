@@ -1,0 +1,10 @@
+Title:Genjitsu Escape
+TitleUnicode:現実エスケープ
+Artist:tephe
+ArtistUnicode:tephe
+Creator:AirinCat
+Version:KittyCat's Reality
+Source:
+Tags:featured artist fa kagamine len 鏡音レン ren kyouren kittyadventure gokugohan12468 reality vocaloid japanese rock jrock Itovero saw mappers' guild mpg
+BeatmapID:4151709
+BeatmapSetID:1997470

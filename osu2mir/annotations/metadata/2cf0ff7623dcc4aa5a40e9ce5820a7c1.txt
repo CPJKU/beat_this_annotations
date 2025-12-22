@@ -1,0 +1,10 @@
+Title:utopia
+TitleUnicode:ユートピア
+Artist:AliA
+ArtistUnicode:AliA
+Creator:Akitoshi
+Version:Akiwari's Hard
+Source:
+Tags:Corinn -Laura- Dubturt Kowari Realize アリア AYAME Okamura Eren TKT RINA SEIYA BOB rock japanese
+BeatmapID:2383337
+BeatmapSetID:1117851

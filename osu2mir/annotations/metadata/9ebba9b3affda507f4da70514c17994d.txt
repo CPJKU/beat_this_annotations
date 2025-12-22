@@ -1,0 +1,10 @@
+Title:Dark Chest of Wonders
+TitleUnicode:Dark Chest of Wonders
+Artist:Nightwish
+ArtistUnicode:Nightwish
+Creator:Sieg
+Version:Normal
+Source:
+Tags:once
+BeatmapID:229977
+BeatmapSetID:82846

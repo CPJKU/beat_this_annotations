@@ -1,0 +1,10 @@
+Title:JUST ONE LIFE
+TitleUnicode:JUST ONE LIFE
+Artist:SPYAIR
+ArtistUnicode:SPYAIR
+Creator:HabiHolic
+Version:Normal
+Source:Samurai Flamenco
+Tags:opening op Square Enix tv size
+BeatmapID:374334
+BeatmapSetID:151320

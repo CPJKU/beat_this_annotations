@@ -1,0 +1,10 @@
+Title:Untitled world
+TitleUnicode:Untitled world
+Artist:ReoNa
+ArtistUnicode:ReoNa
+Creator:Petal
+Version:Hard
+Source:明日方舟
+Tags:Arknights アークナイツ Japanese Video Game gacha agatsu matha gary00737 アンタイトル ワールド 草野 華余子 (LIVE LAB.) 毛蟹 Akita Horie 堀江晶太 rock jpop j-pop pop j-rock jrock short cut version レオナ
+BeatmapID:2649427
+BeatmapSetID:1274790

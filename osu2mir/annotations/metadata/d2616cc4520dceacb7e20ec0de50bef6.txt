@@ -1,0 +1,10 @@
+Title:IGNITE
+TitleUnicode:IGNITE
+Artist:Aoi Eir
+ArtistUnicode:藍井エイル
+Creator:Frostmourne
+Version:Easy
+Source:Sword Art Online II
+Tags:Full Version Opening SAO Kirito Asuna Sinon Asada Shino Shinon Death Gun Gale Online Phantom Bullet ソードアート・オンラインⅡ
+BeatmapID:494991
+BeatmapSetID:209170

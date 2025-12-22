@@ -1,0 +1,10 @@
+Title:Kunoichi demo Koi ga Shitai
+TitleUnicode:クノイチでも恋がしたい
+Artist:yuikonnu & ayaponzu*
+ArtistUnicode:ゆいこんぬ＆あやぽんず＊
+Creator:alacat
+Version:Skystar's Extra
+Source:
+Tags:utaite litoluna iyasine Skystar Amamiya Yuko nico nico douga Vocaloid Hatsune Miku Kagamine Rin MikitoP Saine TomodachiboshuuP Suzumu
+BeatmapID:319694
+BeatmapSetID:111045

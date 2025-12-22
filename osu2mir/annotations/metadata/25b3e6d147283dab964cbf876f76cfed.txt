@@ -1,0 +1,10 @@
+Title:Kegare no Uta
+TitleUnicode:ケガレの唄
+Artist:Sou
+ArtistUnicode:Sou
+Creator:AirinCat
+Version:Insane
+Source:
+Tags:song of impurity japanese novelty cover Hanyuu Maigo 羽生まゐご vocaloid
+BeatmapID:2295645
+BeatmapSetID:957139

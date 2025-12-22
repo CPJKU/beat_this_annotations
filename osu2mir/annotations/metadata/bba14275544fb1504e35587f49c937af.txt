@@ -1,0 +1,10 @@
+Title:Foul Play ni Kurari (TV Size)
+TitleUnicode:ファールプレーにくらり (TV Size)
+Artist:Kanon Wakeshima
+ArtistUnicode:分島花音
+Creator:hoLysoup
+Version:Easy
+Source:To Love-Ru Darkness
+Tags:ending lala momo nana deviluke toloveru alacat toraburu
+BeatmapID:190994
+BeatmapSetID:65114

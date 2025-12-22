@@ -1,0 +1,10 @@
+Title:Ame ga Furu kara Niji ga Deru (TV Size)
+TitleUnicode:雨が降るから虹が出る (TV Size)
+Artist:Sky Peace
+ArtistUnicode:スカイピース
+Creator:Nevo
+Version:Nikakis' Hard
+Source:七つの大罪 戒めの復活
+Tags:nanatsu no taizai imashime no fukkatsu seven deadly sins revival of the commandments pika [[pika]] xchorse chaoticred hypercyte ayanokorin nikakis yukiyo
+BeatmapID:1716288
+BeatmapSetID:811447

@@ -1,0 +1,10 @@
+Title:Singing!
+TitleUnicode:Singing!
+Artist:HTT
+ArtistUnicode:HTT
+Creator:UnitedWeSin
+Version:Normal
+Source:K-ON!
+Tags:kakifly kyoto animation toyosaki aki hikasa yoko satomi satou kotobuki minako taketatsu ayana hirasawa yui akiyama mio kotobuki tsumugi tainaka ritsu nakano azusa houkago tea time ho-kago keion keionbu Movie
+BeatmapID:197990
+BeatmapSetID:68399

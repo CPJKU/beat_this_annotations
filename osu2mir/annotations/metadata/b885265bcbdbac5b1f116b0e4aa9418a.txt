@@ -1,0 +1,10 @@
+Title:BAERUNA
+TitleUnicode:映えるな
+Artist:URBANGARDE
+ArtistUnicode:アーバンギャルド
+Creator:Agatsu
+Version:HARD
+Source:
+Tags:japanese pop hinsvar black impurepug man fixxis avantdemic アバンデミック 
+BeatmapID:2796741
+BeatmapSetID:1330252

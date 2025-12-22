@@ -1,0 +1,10 @@
+Title:Beginning
+TitleUnicode:Beginning
+Artist:Toby Fox
+ArtistUnicode:Toby Fox
+Creator:Error-
+Version:Insane
+Source:DELTARUNE
+Tags:ost radiation survey_program undertale kris toriel
+BeatmapID:1824194
+BeatmapSetID:872679

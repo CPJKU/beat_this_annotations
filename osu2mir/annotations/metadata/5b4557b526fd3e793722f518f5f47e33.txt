@@ -1,0 +1,10 @@
+Title:Kiss no Hitotsu de short
+TitleUnicode:キスのひとつで short
+Artist:Sasaki Sayaka
+ArtistUnicode:佐咲紗花
+Creator:Momovely
+Version:ShiraKai's Kiss
+Source:ちいさな彼女の小夜曲
+Tags:feng chiisana kanojo no serenade ending litoluna wring satellite dagger-gazel shirakai kacha
+BeatmapID:553293
+BeatmapSetID:228678

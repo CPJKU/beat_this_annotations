@@ -1,0 +1,10 @@
+Title:Senpai. [MOVIE Ver.]
+TitleUnicode:センパイ。 [MOVIE Ver.]
+Artist:HoneyWorks meets TrySail
+ArtistUnicode:HoneyWorks meets TrySail
+Creator:0109-
+Version:Easy
+Source:好きになるその瞬間を。～告白実行委員会～
+Tags:suki ni naru sono shunkan wo kokuhaku jikkou iinkai natsukawa shiina asakura momo amamiya sora hokichi gaia astarte
+BeatmapID:1322264
+BeatmapSetID:624763

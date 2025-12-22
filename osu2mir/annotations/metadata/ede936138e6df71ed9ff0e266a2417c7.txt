@@ -1,0 +1,10 @@
+Title:Amadeus
+TitleUnicode:アマデウス
+Artist:Ito Kanako
+ArtistUnicode:いとうかなこ
+Creator:FrostxE
+Version:Insane
+Source:STEINS;GATE 0
+Tags:シュタインズ・ゲート ゼロ Frostmourne
+BeatmapID:840538
+BeatmapSetID:384688

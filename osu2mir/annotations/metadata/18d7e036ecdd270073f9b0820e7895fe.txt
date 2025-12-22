@@ -1,0 +1,10 @@
+Title:Sparkling Daydream
+TitleUnicode:Sparkling Daydream
+Artist:ZAQ
+ArtistUnicode:ZAQ
+Creator:Chloe
+Version:CSAQ's Insane
+Source:中二病でも恋がしたい!
+Tags:opening Chu-2 byo demo KOI ga shitai Natsu Regraz CSAQ
+BeatmapID:1074409
+BeatmapSetID:389192

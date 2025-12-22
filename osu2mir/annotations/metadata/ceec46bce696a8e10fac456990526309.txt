@@ -1,0 +1,10 @@
+Title:Heavy Rotation
+TitleUnicode:ヘビーローテーション
+Artist:AKB48
+ArtistUnicode:AKB48
+Creator:Sotarks
+Version:wkyik's Insane
+Source:
+Tags:kawaiwkyik rizia jpop j-pop japanese female vocalists vocals pop akb 48 Koko ni Ita Koto single Akimoto Yamazaki Tanaka idols
+BeatmapID:3152936
+BeatmapSetID:1524839

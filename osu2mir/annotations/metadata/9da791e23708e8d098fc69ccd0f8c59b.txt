@@ -1,0 +1,10 @@
+Title:Clubstep
+TitleUnicode:Clubstep
+Artist:dj-Nate
+ArtistUnicode:dj-Nate
+Creator:ADoorNob
+Version:LosPedros' Harder
+Source:Geometry Dash
+Tags:Electronic House Instrumental Dance Demon Sightread LosPedros Corne2Plum3 Ixcors
+BeatmapID:3873861
+BeatmapSetID:1857624

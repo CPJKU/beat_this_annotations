@@ -1,0 +1,10 @@
+Title:chocolate insomnia (TV Size)
+TitleUnicode:chocolate insomnia (TV Size)
+Artist:Horie Yui
+ArtistUnicode:堀江 由衣
+Creator:NoHitter
+Version:Normal
+Source:Monogatari Season 2
+Tags:tsubasa tiger nekomonogatari white pkhg
+BeatmapID:275135
+BeatmapSetID:104541

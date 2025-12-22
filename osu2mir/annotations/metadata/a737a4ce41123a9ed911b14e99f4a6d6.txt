@@ -1,0 +1,10 @@
+Title:Shounen Ripples
+TitleUnicode:少年リップルズ
+Artist:Yu Tokiwa
+ArtistUnicode:常盤ゆう
+Creator:Sotarks
+Version:Nevo's Expert
+Source:jubeat ripples APPEND
+Tags:脇田潤 Jun Wakita wac 泉陸奥彦 Mutsuhiko Izumi 渡部正人 Watabe Masahito Asaki EMOCTRO 音楽 Ongaku BeatStream アニムトライヴ AnimTribe GITADORA plus jukebeat pop'n music 19 TUNE STREET REFLEC BEAT colette -Autumn- ポップンリズミン rhythmin shonen yuu soundtrack game size sharu nevo akitoshi corinn -laura- shunao shogunmoon [_sharuresu_] sharuresu snownino_
+BeatmapID:1611251
+BeatmapSetID:763619

@@ -1,0 +1,10 @@
+Title:Go to Church (feat. Snoop Dogg & Lil Jon)
+TitleUnicode:Go to Church (feat. Snoop Dogg & Lil Jon)
+Artist:Ice Cube
+ArtistUnicode:Ice Cube
+Creator:TicClick
+Version:FCL's Hard
+Source:
+Tags:Laugh Now Cry Later rap collaboration alacat EvilElvis FCL
+BeatmapID:897318
+BeatmapSetID:319999

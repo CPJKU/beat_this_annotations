@@ -1,0 +1,10 @@
+Title:Fuuga
+TitleUnicode:風雅
+Artist:Hatsuki Yura
+ArtistUnicode:葉月ゆら
+Creator:Lan wings
+Version:Zero's Hard
+Source:
+Tags:Zero__wind Drop HAMELN cmn_891127 Beren BakaHuang
+BeatmapID:254913
+BeatmapSetID:94790

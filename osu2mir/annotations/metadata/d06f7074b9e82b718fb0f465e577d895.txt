@@ -1,0 +1,10 @@
+Title:Acacia
+TitleUnicode:アカシア
+Artist:BUMP OF CHICKEN
+ArtistUnicode:BUMP OF CHICKEN
+Creator:Sotarks
+Version:Basen's Normal
+Source:GOTCHA！
+Tags:ポケモン pokemon スペシャルミュージックビデオ japanese pop jpop j-pop male vocalist pocket monsters special music video pokémon ! ポケットモンスター toy’s factory chiga mamayu kanau fuyuyu- silky kowari ren derandom otaku basensorex
+BeatmapID:2655767
+BeatmapSetID:1272018

@@ -1,0 +1,10 @@
+Title:Inochi no Tabekata (movie ver.)
+TitleUnicode:いのちの食べ方 (movie ver.)
+Artist:Eve
+ArtistUnicode:Eve
+Creator:AirinCat
+Version:Hard
+Source:
+Tags:japanese pop jpop rock jrock smile utaite how to eat life
+BeatmapID:3070922
+BeatmapSetID:1370456

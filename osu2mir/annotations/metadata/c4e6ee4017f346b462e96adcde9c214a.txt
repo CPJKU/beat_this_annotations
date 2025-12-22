@@ -1,0 +1,10 @@
+Title:Kibou no Uta (TV Size)
+TitleUnicode:希望の唄 (TV Size)
+Artist:ULTRA TOWER
+ArtistUnicode:ULTRA TOWER
+Creator:Nevo
+Version:Agatsu's Normal
+Source:食戟のソーマ
+Tags:Shokugeki no Soma Food Wars! opening op 1 Shiratoi Agatsu Armin A_r_M_i_N Renumi japanese anime
+BeatmapID:1384296
+BeatmapSetID:446418

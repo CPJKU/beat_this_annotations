@@ -1,0 +1,10 @@
+Title:Yume Tourou
+TitleUnicode:夢灯籠
+Artist:RADWIMPS
+ArtistUnicode:RADWIMPS
+Creator:NoHitter
+Version:Hard
+Source:君の名は。
+Tags:Kimi no Na wa Your Name Opening OP 洋次郎 野田 Yojiro Noda Dream Lantern
+BeatmapID:1094076
+BeatmapSetID:515069

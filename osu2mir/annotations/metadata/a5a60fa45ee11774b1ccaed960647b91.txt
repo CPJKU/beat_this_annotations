@@ -1,0 +1,10 @@
+Title:Sentimental Crisis (TV Size)
+TitleUnicode:センチメンタルクライシス (TV Size)
+Artist:halca
+ArtistUnicode:halca
+Creator:kunka
+Version:Insane
+Source:かぐや様は告らせたい～天才たちの恋愛頭脳戦～
+Tags:ending Kaguya sama wa Kokurasetai Tensai tachi no Renai Zunousen Love Is War kunkakunkakunkakunka
+BeatmapID:1912651
+BeatmapSetID:915808

@@ -1,0 +1,10 @@
+Title:Netsujou no Spectrum (TV Size)
+TitleUnicode:熱情のスペクトラム (TV Size)
+Artist:Ikimonogakari
+ArtistUnicode:いきものがかり
+Creator:GIDZ
+Version:Tsumi
+Source:Nanatsu no Taizai
+Tags:七つの大罪 the seven deadly sins OP Opening short japanese jpop anime Elizabeth Meliodas Diane Gowther Ban King Merlin PaRaDogi
+BeatmapID:2598921
+BeatmapSetID:1250507

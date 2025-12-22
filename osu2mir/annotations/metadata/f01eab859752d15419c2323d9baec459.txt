@@ -1,0 +1,10 @@
+Title:yoshi's island
+TitleUnicode:yoshi's island
+Artist:glass beach
+ArtistUnicode:glass beach
+Creator:Phynta
+Version:insane
+Source:osu!
+Tags:p1twist paul blart dog food door weapon xiced william white jonas newhouse tony sanders daxe schaeffer j mcclendon punk art rock bedroom pop post-emo post-punk english fa featured artist
+BeatmapID:2650107
+BeatmapSetID:1179754

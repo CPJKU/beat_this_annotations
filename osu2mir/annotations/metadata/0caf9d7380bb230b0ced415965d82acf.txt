@@ -1,0 +1,10 @@
+Title:crossing field
+TitleUnicode:crossing field
+Artist:LiSA
+ArtistUnicode:LiSA
+Creator:Ryafuka
+Version:Easy
+Source:Sword Art Online
+Tags:opening SAO
+BeatmapID:206985
+BeatmapSetID:68500

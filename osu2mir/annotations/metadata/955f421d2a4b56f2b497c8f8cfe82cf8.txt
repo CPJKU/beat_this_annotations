@@ -1,0 +1,10 @@
+Title:Yume Sekai
+TitleUnicode:ユメセカイ
+Artist:Tomatsu Haruka
+ArtistUnicode:戸松遥
+Creator:Left
+Version:249's Normal
+Source:ソードアート・オンライン
+Tags:Sword Art Online SAO ED ending full version ver 結城 明日奈 Yuuki Asuna Anime japanese pop Byakugan249 YTYuyu lit120 -Hakurei-
+BeatmapID:3430996
+BeatmapSetID:1677784

@@ -1,0 +1,10 @@
+Title:Kokuhaku Yokou Renshuu
+TitleUnicode:告白予行練習
+Artist:sana
+ArtistUnicode:鎖那
+Creator:deetz
+Version:Normal
+Source:
+Tags:honeyworks milan- confession rehearsal 好きなひと。 Suki na Hito. shito
+BeatmapID:675171
+BeatmapSetID:275283

@@ -1,0 +1,10 @@
+Title:Fighter
+TitleUnicode:Fighter
+Artist:KANA-BOON
+ArtistUnicode:KANA-BOON
+Creator:iYiyo
+Version:Extra
+Source:機動戦士ガンダム 鉄血のオルフェンズ
+Tags:irohas mugiwarasekai kalibe Mobile Suit Gundam Iron-Blooded Orphans 2nd second Season full version
+BeatmapID:1216800
+BeatmapSetID:574536

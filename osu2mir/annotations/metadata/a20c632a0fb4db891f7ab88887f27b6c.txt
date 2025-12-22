@@ -1,0 +1,10 @@
+Title:Terekakushi Shishunki
+TitleUnicode:テレカクシ思春期
+Artist:Sana
+ArtistUnicode:鎖那
+Creator:litoluna
+Version:Insane
+Source:
+Tags:HoneyWorks vocaloid Kagamine Len
+BeatmapID:479354
+BeatmapSetID:202677

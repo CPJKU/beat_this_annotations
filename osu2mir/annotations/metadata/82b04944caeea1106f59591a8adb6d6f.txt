@@ -1,0 +1,10 @@
+Title:Kiga to Hougyoku (Game Ver.)
+TitleUnicode:飢餓と宝玉 (Game Ver.)
+Artist:konore
+ArtistUnicode:konore
+Creator:RK657
+Version:Hard
+Source:マルコと銀河竜 ～MARCO＆GALAXY DRAGON～
+Tags:TOKYOTOON Hunger and Orb marco and the galaxy dragon galgame opening video game 斎藤優輝 Yuki Saito はと Hato visual novel japanese rock j-rock jrock pop j-pop jpop
+BeatmapID:3204626
+BeatmapSetID:1144382

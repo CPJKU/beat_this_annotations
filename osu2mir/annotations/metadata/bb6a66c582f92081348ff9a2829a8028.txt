@@ -1,0 +1,10 @@
+Title:Carrion
+TitleUnicode:Carrion
+Artist:Parkway Drive
+ArtistUnicode:Parkway Drive
+Creator:DavidEd
+Version:Normal
+Source:
+Tags:metalcore hardcore punk horizons epitaph records
+BeatmapID:1092497
+BeatmapSetID:514196

@@ -1,0 +1,10 @@
+Title:SAVIOR OF SONG
+TitleUnicode:SAVIOR OF SONG
+Artist:nano feat. MY FIRST STORY
+ArtistUnicode:ナノ feat. MY FIRST STORY
+Creator:KantoKun
+Version:Insane
+Source:蒼き鋼のアルペジオ
+Tags:Aoki Hagane no Arpeggio of Blue Steel opening Laurier Karia PAN P_A_N
+BeatmapID:371325
+BeatmapSetID:150491

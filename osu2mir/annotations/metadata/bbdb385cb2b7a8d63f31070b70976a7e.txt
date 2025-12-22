@@ -1,0 +1,10 @@
+Title:Akeboshi (TV Size)
+TitleUnicode:明け星 (TV Size)
+Artist:LiSA
+ArtistUnicode:LiSA
+Creator:Saggin
+Version:Hard
+Source:「鬼滅の刃」無限列車編
+Tags:kimetsu no yaiba demon slayer mugen ressha-hen ressha hen tv animation theme song infinite train arc yuki kajiura 梶浦 由記 梶浦由記 op opening dawn star japanese pop rock j-rock jrock jpop j-pop anime op opening rengoku kyoujurou kyojuro 煉獄 杏寿郎 flame hashira Shirogane 白銀 silver 20th single gokugohan12468 KittyAdventure
+BeatmapID:3279112
+BeatmapSetID:1590001

@@ -1,0 +1,10 @@
+Title:Shukusai no Elementalia
+TitleUnicode:祝祭のエレメンタリア
+Artist:Ni-Sokkususu
+ArtistUnicode:にーそっくすす
+Creator:SnowNiNo_
+Version:Laura's Extra
+Source:精霊使いの剣舞
+Tags:-NanoRIPE- Akitoshi -Laura- Corinn claire rouge seirei tsukai no blade dance of the elementalers
+BeatmapID:1648505
+BeatmapSetID:740672

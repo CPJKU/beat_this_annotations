@@ -1,0 +1,10 @@
+Title:Hologram
+TitleUnicode:ホログラム
+Artist:NICO Touches the Walls
+ArtistUnicode:NICO Touches the Walls
+Creator:Hobbes2
+Version:Easy
+Source:鋼の錬金術師 FULLMETAL ALCHEMIST
+Tags:Neoskylove SeaRasp Aurora Tatsuya Mitsumura alternative rock power pop
+BeatmapID:1247290
+BeatmapSetID:559651

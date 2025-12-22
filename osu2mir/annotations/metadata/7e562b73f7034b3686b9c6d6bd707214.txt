@@ -1,0 +1,10 @@
+Title:Mono Crossroad
+TitleUnicode:モノクロスロード
+Artist:Amatsuki & Midori Inu.
+ArtistUnicode:天月 ＆ みどりいぬ。
+Creator:sheela901
+Version:Chirony's Hard
+Source:
+Tags:kakifly chirony ariep monocross road duet utaite Monokurosurodo vocaloid hatsune miku nico douga
+BeatmapID:504570
+BeatmapSetID:206939

@@ -1,0 +1,10 @@
+Title:Daidai Genome
+TitleUnicode:橙ゲノム
+Artist:*namirin
+ArtistUnicode:＊なみりん
+Creator:Sotarks
+Version:Ascendance's Rain
+Source:
+Tags:linada kyuukai yaleufeu realazy akitoshi corinn davided ascendance
+BeatmapID:1486940
+BeatmapSetID:700726

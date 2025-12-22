@@ -1,0 +1,10 @@
+Title:Puzzle
+TitleUnicode:パズル
+Artist:ROUND TABLE featuring Nino
+ArtistUnicode:ROUND TABLE featuring Nino
+Creator:FoxyGrandpa
+Version:Conspiracy
+Source:N・H・Kにようこそ！
+Tags:Opening Welcome To The NHK Nihon Hikikomori Kyōkai パズル　「N・H・Kにようこそ！」OPテーマ N.H.K. ni Yōkoso! Puzzle! OP theme Ascendance KKipalt Rizen missa1912 Ultima Fox
+BeatmapID:1080030
+BeatmapSetID:507802

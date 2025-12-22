@@ -1,0 +1,10 @@
+Title:ReI
+TitleUnicode:ReI
+Artist:THE ORAL CIGARETTES
+ArtistUnicode:THE ORAL CIGARETTES
+Creator:Kagetsu
+Version:Ameagari
+Source:
+Tags:Milan- Delis Kalibe Irohas Logic Agent MugiwaraSekai
+BeatmapID:1588369
+BeatmapSetID:754451

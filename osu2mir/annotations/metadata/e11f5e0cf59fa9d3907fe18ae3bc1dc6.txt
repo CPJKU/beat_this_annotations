@@ -1,0 +1,10 @@
+Title:Heart Realize (TV Size)
+TitleUnicode:ハートリアライズ (TV Size)
+Artist:Tia
+ArtistUnicode:Tia
+Creator:Nevo
+Version:Yukiyo's Insane
+Source:ノラガミ
+Tags:noragami supercell ryo ending AirinCat xandit kowari yukiyo
+BeatmapID:1975299
+BeatmapSetID:939836

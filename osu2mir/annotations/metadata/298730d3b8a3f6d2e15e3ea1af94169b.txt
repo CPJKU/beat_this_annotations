@@ -1,0 +1,10 @@
+Title:Bull's eye
+TitleUnicode:Bull's eye
+Artist:nano
+ArtistUnicode:ナノ
+Creator:HabiHolic
+Version:Karia's Hard
+Source:緋弾のアリアAA
+Tags:Aria the Scarlet Ammo Double A AT-X Regraz F_D_Flourite Gaia Karia
+BeatmapID:800206
+BeatmapSetID:360744

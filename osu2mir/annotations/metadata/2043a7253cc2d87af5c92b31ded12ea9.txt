@@ -1,0 +1,10 @@
+Title:HAPPY PARTY TRAIN
+TitleUnicode:HAPPY PARTY TRAIN
+Artist:Aqours
+ArtistUnicode:Aqours
+Creator:Sotarks
+Version:SMOKELIND's Insane
+Source:ラブライブ！サンシャイン!!
+Tags:video game 3rd Single Love Live! Sunshine!! Second Live School Idol Project japanese female vocalist chiga elinor [_eli_] smokelind browiec anime 高海千歌 Chika Takami 伊波杏樹 Anju Inami 桜内梨子 Riko Sakurauchi 逢田梨香子 Rikako Aida 松浦果南 Kanan Matsuura 諏訪ななか Nanaka Suwa 黒澤ダイヤ Dia Kurosawa 小宮有紗 Arisa Komiya 畑 亜貴 Aki Hata 渡辺拓也 Takuya Watanabe EFFY アクア
+BeatmapID:2488854
+BeatmapSetID:1194661

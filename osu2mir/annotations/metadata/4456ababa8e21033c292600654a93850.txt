@@ -1,0 +1,10 @@
+Title:microser
+TitleUnicode:microser
+Artist:nowisee
+ArtistUnicode:nowisee
+Creator:bilibilicnm
+Version:Extra
+Source:
+Tags:Necho japanese pop jpop j-pop reALIVE ノイズ noise Strange Octave
+BeatmapID:3017432
+BeatmapSetID:1456710

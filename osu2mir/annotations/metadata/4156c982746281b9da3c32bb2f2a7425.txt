@@ -1,0 +1,10 @@
+Title:Hyouri Ittai (TV Size)
+TitleUnicode:表裏一体 (TV Size)
+Artist:Yuzu
+ArtistUnicode:ゆず
+Creator:Trust
+Version:Fiya's Insane
+Source:HUNTER X HUNTER
+Tags:hxh ハンター×ハンター 2011 nippon animation 日本アニメーション gon freecss killua zoldyck chimera ant ending fiya
+BeatmapID:328098
+BeatmapSetID:129299

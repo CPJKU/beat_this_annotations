@@ -1,0 +1,10 @@
+Title:This game
+TitleUnicode:This game
+Artist:Suzuki Konomi
+ArtistUnicode:鈴木このみ
+Creator:Kalibe
+Version:Kuuhaku
+Source:ノーゲーム・ノーライフ
+Tags:No Game Life opening op full version akitoshi deppyforce [C_u_r_i] Curi
+BeatmapID:991267
+BeatmapSetID:462896

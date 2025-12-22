@@ -1,0 +1,10 @@
+Title:Yume no Mata Yume
+TitleUnicode:夢のまた夢
+Artist:yuikonnu
+ArtistUnicode:ゆいこんぬ
+Creator:Kyuukai
+Version:Hard
+Source:
+Tags:夢見がちなクリームパッフル yumemigachi na cream puffle white chocolate full version utaite cover mafumafu yuiko a dream within alternate style yaleufeu
+BeatmapID:1703566
+BeatmapSetID:812160

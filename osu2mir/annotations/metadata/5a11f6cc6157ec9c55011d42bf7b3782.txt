@@ -1,0 +1,10 @@
+Title:QLWA
+TitleUnicode:QLWA
+Artist:t+pazolite
+ArtistUnicode:t+pazolite
+Creator:Yugu
+Version:liaoxingyao's Another
+Source:GROOVE COASTER 2
+Tags:ORIGINAL SOUNDTRACK BOOST Gyro Zeppeli Suzuki_1112 1112deng Koiyuki liaoxingyao ExNeko Good Evening, HOLLOWood ayyri eiri- unpredictable Gyro_Zeppeli
+BeatmapID:1549439
+BeatmapSetID:685008

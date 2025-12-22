@@ -1,0 +1,10 @@
+Title:Dark Crow (TV Size)
+TitleUnicode:Dark Crow (TV Size)
+Artist:MAN WITH A MISSION
+ArtistUnicode:MAN WITH A MISSION
+Creator:AirinCat
+Version:Normal
+Source:ヴィンランド・サガ
+Tags:mwam vinland saga anime op japanese opening 2 two second rock jrock Jean-Ken jean ken johnny Tokyo Tanaka Spear Rib DJ Santa Monica Kamikaze Boy kohsuke oshima wit studio
+BeatmapID:2191673
+BeatmapSetID:1048325

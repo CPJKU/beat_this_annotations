@@ -1,0 +1,10 @@
+Title:Here
+TitleUnicode:Here
+Artist:JUNNA
+ArtistUnicode:JUNNA
+Creator:Ultima Fox
+Version:Normal
+Source:魔法使いの嫁
+Tags:The Ancient Magus Bride op opening tv size
+BeatmapID:1473184
+BeatmapSetID:686584

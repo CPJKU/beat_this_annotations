@@ -1,0 +1,10 @@
+Title:Mata Ashita
+TitleUnicode:また あした
+Artist:Yuuki Aoi
+ArtistUnicode:悠木碧
+Creator:Kibbleru
+Version:Insane
+Source:Puella Magi Madoka Magica
+Tags:See You Tomorrow Character Song Mahou Shoujo No Dap Kaname Madoka 鹿目まどか ending
+BeatmapID:443272
+BeatmapSetID:172055

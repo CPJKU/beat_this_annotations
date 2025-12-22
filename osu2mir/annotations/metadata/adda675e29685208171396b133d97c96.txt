@@ -1,0 +1,10 @@
+Title:Hana Tsubomi Yume Miru Kyoushikyoku ~Tamashii no Shirube~
+TitleUnicode:華蕾夢ミル狂詩曲～魂ノ導～
+Artist:Uchida Maaya
+ArtistUnicode:内田真礼
+Creator:Mythol
+Version:Insane
+Source:THE IDOLM@STER CINDERELLA GIRLS
+Tags:RLC meiikyuu Flask
+BeatmapID:244182
+BeatmapSetID:89888

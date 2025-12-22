@@ -1,0 +1,10 @@
+Title:Jikan yo Tomare (TV Size)
+TitleUnicode:時間よ止まれ (TV Size)
+Artist:AZU feat. SEAMO
+ArtistUnicode:AZU feat. SEAMO
+Creator:Rakuen
+Version:Normal
+Source:Itazura na Kiss
+Tags:Ending 2 _AI romantic anime Gero
+BeatmapID:286519
+BeatmapSetID:96436

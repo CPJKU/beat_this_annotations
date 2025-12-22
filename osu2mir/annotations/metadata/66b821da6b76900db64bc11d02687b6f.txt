@@ -1,0 +1,10 @@
+Title:Hanazono Denki Guitar!!!
+TitleUnicode:花園電気ギター！！！
+Artist:Hanazono Tae (CV: Otsuka Sae)
+ArtistUnicode:花園たえ (CV: 大塚紗英)
+Creator:Akitoshi
+Version:Insane
+Source:バンドリ！ ガールズバンドパーティ！
+Tags:BanG Dream! Girls Band Party! ガルパ Corinn -Laura- Deppyforce Electric Mori Haruki 母里治樹 Nakamura Kou 中村航 Elements Garden Bandori Full version ver. Poppin'Party popipa ポピパ ポッピン パーティー 戸山香澄 Toyama Kasumi 愛美 Aimi 山吹 沙綾 Yamabuki Saaya 大橋彩香 Ohashi Ayaka 牛込 りみ Ushigome Rimi 西本 りみ Nishimoto 大塚紗英 Ichigaya Arisa 伊藤 彩沙 Itou Ayasa Japanese Video game Anime
+BeatmapID:1972419
+BeatmapSetID:943947

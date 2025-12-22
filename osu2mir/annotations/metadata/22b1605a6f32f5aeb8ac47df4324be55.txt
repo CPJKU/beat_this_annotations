@@ -1,0 +1,10 @@
+Title:Symbol (TV Size)
+TitleUnicode:シンボル (TV Size)
+Artist:Luck Life
+ArtistUnicode:ラックライフ
+Creator:hypercyte
+Version:Meep's Hard
+Source:食戟のソーマ 餐ノ皿
+Tags:shokugeki no souma soma san no sara toutsuki ressha-hen food wars season 3 opening 2 peter _meep_
+BeatmapID:1621159
+BeatmapSetID:762380

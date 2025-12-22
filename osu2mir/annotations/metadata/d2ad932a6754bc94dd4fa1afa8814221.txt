@@ -1,0 +1,10 @@
+Title:Mii Channel Music (I Can Do Whatever I Want Because I'm An Adult Remix)
+TitleUnicode:Mii Channel Music (I Can Do Whatever I Want Because I'm An Adult Remix)
+Artist:Traxell
+ArtistUnicode:Traxell
+Creator:Kuki
+Version:Easy
+Source:
+Tags:Rizen Sharkie Wii
+BeatmapID:795703
+BeatmapSetID:358730

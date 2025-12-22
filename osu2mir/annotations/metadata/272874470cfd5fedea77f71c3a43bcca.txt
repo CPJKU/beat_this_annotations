@@ -1,0 +1,10 @@
+Title:INNOCENCE (TV Size)
+TitleUnicode:INNOCENCE (TV Size)
+Artist:Aoi Eir
+ArtistUnicode:Aoi Eir
+Creator:CXu
+Version:MM's Taiko Muzukashii
+Source:Sword Art Online
+Tags:SAO Aincrad ALfheim Online ALO kirigaya kazuto kirito Yuuki Asuna Lyfa Suguha Yui OP Opening 2 2nd  f_e_a_r NoHitter MMzz
+BeatmapID:184615
+BeatmapSetID:61401

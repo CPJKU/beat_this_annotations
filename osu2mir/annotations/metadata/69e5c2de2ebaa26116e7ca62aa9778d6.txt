@@ -1,0 +1,10 @@
+Title:FUBUKI (Cut Ver.)
+TitleUnicode:吹雪 (Cut Ver.)
+Artist:Imperial Circus Dead Decadence
+ArtistUnicode:Imperial Circus Dead Decadence
+Creator:BadGames
+Version:HyperPigeon's Expert
+Source:艦隊これくしょん -艦これ-
+Tags:icdd japanese cover symphonic melodic death metal karcher [Karcher] mx10001 zisa riana amamya hyperpigeon milr_ kaguya_sama [Arcadia]
+BeatmapID:3967918
+BeatmapSetID:1907725

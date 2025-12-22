@@ -1,0 +1,10 @@
+Title:Aoi Shiori
+TitleUnicode:青い栞
+Artist:Galileo Galilei
+ArtistUnicode:Galileo Galilei
+Creator:Log Off Now
+Version:Hard
+Source:あの日見た花の名前を僕達はまだ知らない。
+Tags:Anohana Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai Hokichi opening op blue bookmark ガリレオガリレイ
+BeatmapID:929612
+BeatmapSetID:430926

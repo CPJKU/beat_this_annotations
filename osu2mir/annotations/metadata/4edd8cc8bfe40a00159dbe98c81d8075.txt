@@ -1,0 +1,10 @@
+Title:Children Record
+TitleUnicode:チルドレンレコード
+Artist:JIN feat. MARiA from GARNiDELiA
+ArtistUnicode:じん feat. メイリア from GARNiDELiA
+Creator:Nevo
+Version:Kagerou
+Source:カゲロウプロジェクト
+Tags:vocaloid Mekakucity メカクシティアクターズ Actors reload kagerou project カゲロウプロジェ 自然の敵P Shizen no Teki P Teki-P TekiP nikakis smokelind akitoshi corinn -laura- airincat
+BeatmapID:2150812
+BeatmapSetID:1028642

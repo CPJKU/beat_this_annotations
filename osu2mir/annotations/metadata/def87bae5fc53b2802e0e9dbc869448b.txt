@@ -1,0 +1,10 @@
+Title:Q
+TitleUnicode:Q
+Artist:Kaede To Kyo Aki Ame Kuzu
+ArtistUnicode:楓刀京明雨葛
+Creator:Abelia
+Version:Extra
+Source:
+Tags:ヤンキー組 yankee gumi 椎名もた shiina shina mota siinamota ぽわぽわp powapowap vtuber virtual バーチャルyoutuber 2434 にじさんじ nijisanji 樋口楓 higuchi kaede 剣持刀也 kenmochi toya touya 轟京子 todoroki kyoko kyouko 三枝明那 saegusa akina 葛葉 kuzuha 久遠千歳 kudou chitose 雨森小夜 amemori sayo japanese rock いちから ichikara j-rock jrock cover カバー
+BeatmapID:2727221
+BeatmapSetID:1316097

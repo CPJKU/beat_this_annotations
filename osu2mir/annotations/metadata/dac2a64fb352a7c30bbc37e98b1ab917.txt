@@ -1,0 +1,10 @@
+Title:Fatima (TV Size)
+TitleUnicode:ファティマ (TV Size)
+Artist:Ito Kanako
+ArtistUnicode:いとうかなこ
+Creator:Sotarks
+Version:Paradox
+Source:Steins;Gate 0
+Tags:Itou opening シュタインズ・ゲート reform kujinn shunao shogunmoon akitoshi corinn -laura- ゼロ anime japanese 2
+BeatmapID:1876015
+BeatmapSetID:898005

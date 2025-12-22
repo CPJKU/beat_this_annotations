@@ -1,0 +1,10 @@
+Title:Extreme Fantasy
+TitleUnicode:Extreme Fantasy
+Artist:Memme
+ArtistUnicode:Memme
+Creator:AngelHoney
+Version:Taiko Oni
+Source:O2jam Analog
+Tags:Frederic Chopin respect for Chopin Classical fantasie impromptu mix Ultimate Fantasy Electro Fantasy OST Dub Electro TW-KUMA01 Naryuga
+BeatmapID:173048
+BeatmapSetID:49459

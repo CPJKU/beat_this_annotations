@@ -1,0 +1,10 @@
+Title:Oceanus
+TitleUnicode:Ωκεανος
+Artist:cosMo@BousouP
+ArtistUnicode:cosMo@暴走P
+Creator:Broccoly
+Version:Normal
+Source:Deemo
+Tags:Okeanos cosMo AD:PIANOⅢ Diverse System instrumental winber1 fortune irreversible helloscv asagi
+BeatmapID:614095
+BeatmapSetID:267767

@@ -1,0 +1,10 @@
+Title:Yume Tourou
+TitleUnicode:夢灯籠
+Artist:RADWIMPS
+ArtistUnicode:RADWIMPS
+Creator:L3NNy
+Version:Normal
+Source:君の名は。
+Tags:your name kimi no na wa japanese anime j-rock
+BeatmapID:1967725
+BeatmapSetID:936827

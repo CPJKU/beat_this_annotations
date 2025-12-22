@@ -1,0 +1,10 @@
+Title:Mangekyou
+TitleUnicode:万華鏡
+Artist:Kotoge Mai
+ArtistUnicode:小峠舞
+Creator:Oracle
+Version:cRyo's Insane
+Source:Touhou
+Tags:cRyo[iceeicee] Frostmourne Atoguru Kaleidoscope 東方風神録 ～ Mountain of Faith Hina Kagiyama's theme Dark Side of Fate 運命のダークサイド W*M K2 幻想天舞 ～GENSOUTENBU～ C-CLAYS
+BeatmapID:535334
+BeatmapSetID:230094

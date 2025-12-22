@@ -1,0 +1,10 @@
+Title:Mikasa
+TitleUnicode:Mikasa
+Artist:Veil of Maya
+ArtistUnicode:Veil of Maya
+Creator:Bergy
+Version:Seni's Hard
+Source:
+Tags:matriarch progressive metal deathcore djent davided mikasaserket puxtu seni
+BeatmapID:1215687
+BeatmapSetID:480298

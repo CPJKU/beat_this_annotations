@@ -1,0 +1,10 @@
+Title:Suspense
+TitleUnicode:Suspense
+Artist:Monophobia Studio
+ArtistUnicode:Monophobia Studio
+Creator:Koalazy
+Version:Easy
+Source:
+Tags:OST cello cinematic drum piano audiojungle
+BeatmapID:359670
+BeatmapSetID:144668

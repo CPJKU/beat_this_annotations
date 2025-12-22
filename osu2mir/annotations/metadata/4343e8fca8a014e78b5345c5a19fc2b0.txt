@@ -1,0 +1,10 @@
+Title:Yugioh! Theme
+TitleUnicode:Yugioh! Theme
+Artist:Wayne Sharpe and John Siegler
+ArtistUnicode:Wayne Sharpe and John Siegler
+Creator:Sotarks
+Version:Nao's Hard
+Source:Yu-Gi-Oh! Duel Monsters
+Tags:遊☆戯☆王デュエルモンスターズ Larry Saltzman Opening Op nao_tomori naotoshi akitoshi corinn -laura-
+BeatmapID:1609746
+BeatmapSetID:765548

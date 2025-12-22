@@ -1,0 +1,10 @@
+Title:Dantalion
+TitleUnicode:Dantalion
+Artist:Team Grimoire
+ArtistUnicode:Team Grimoire
+Creator:Down
+Version:Normal
+Source:Arcaea
+Tags:owc2021sffm1 black fate electronic video game instrumental
+BeatmapID:3472781
+BeatmapSetID:1622117

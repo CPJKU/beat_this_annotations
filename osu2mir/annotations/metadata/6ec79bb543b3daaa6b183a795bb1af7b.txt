@@ -1,0 +1,10 @@
+Title:Yume Chizu
+TitleUnicode:夢地図
+Artist:ITO KASHITARO
+ArtistUnicode:伊東歌詞太郎
+Creator:Nevo
+Version:Rocketto's Easy
+Source:
+Tags:40mp 40Meter-P dream map cover utaite itou kashitarou armin a_r_m_i_n happyrocket88 shogunmoon byd bite you death shiratoi renumi shunao
+BeatmapID:1495901
+BeatmapSetID:690977

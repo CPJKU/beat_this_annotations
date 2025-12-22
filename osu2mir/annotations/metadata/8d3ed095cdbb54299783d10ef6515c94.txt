@@ -1,0 +1,10 @@
+Title:Answer
+TitleUnicode:アンサー
+Artist:BUMP OF CHICKEN
+ArtistUnicode:BUMP OF CHICKEN
+Creator:bigfrog
+Version:Normal
+Source:3月のライオン
+Tags:opening March Comes in Like a Lion Sangatsu no Raion TV size
+BeatmapID:1561280
+BeatmapSetID:739192

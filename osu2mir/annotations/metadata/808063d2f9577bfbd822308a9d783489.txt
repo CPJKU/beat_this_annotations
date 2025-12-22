@@ -1,0 +1,10 @@
+Title:Overdrive
+TitleUnicode:Overdrive
+Artist:Harada Hitomi
+ArtistUnicode:原田ひとみ
+Creator:Shirahane Suou
+Version:Maot's Hard
+Source:VALKYRIE DRIVE -MERMAID-
+Tags:j-rock jrock ヒゲドライバー hige driver ゆよゆっぺ yuyoyuppe ヴァルキリードライヴ マーメイド japanese anime opening rock 百合 yuri addy2607 fuju maot nexusqi
+BeatmapID:2839743
+BeatmapSetID:1254187

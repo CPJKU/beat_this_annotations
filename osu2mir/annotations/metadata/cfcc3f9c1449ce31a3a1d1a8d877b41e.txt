@@ -1,0 +1,10 @@
+Title:Hikari no Naka e
+TitleUnicode:光の中へ
+Artist:kessoku band
+ArtistUnicode:結束バンド
+Creator:Shirahane Suou
+Version:Insane
+Source:ぼっち・ざ・ろっく！
+Tags:bocchi the rock japanese anime jrock j-rock he tomatas95
+BeatmapID:4168199
+BeatmapSetID:2004303

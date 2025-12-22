@@ -1,0 +1,10 @@
+Title:Tokohana (TV Size)
+TitleUnicode:トコハナ (TV Size)
+Artist:yanaginagi
+ArtistUnicode:やなぎなぎ
+Creator:Sharlo
+Version:Yomi's Easy
+Source:ブラック・ブレット
+Tags:黒の銃弾 Kuro_no_Juudan Black Bullet Chloe Fycho Kodora Tsukuyomi 17VA Yuutosan
+BeatmapID:417913
+BeatmapSetID:172907

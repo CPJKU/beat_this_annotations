@@ -1,0 +1,10 @@
+Title:Tsukiakari no Michishirube ~Opening Edition~
+TitleUnicode:ツキアカリのミチシルベ～Opening Edition～
+Artist:Stereopony
+ArtistUnicode:ステレオポニー
+Creator:Sonnyc
+Version:Enon's Easy
+Source:DARKER THAN BLACK 流星の双子
+Tags:Ryuusei no Gemini Enon
+BeatmapID:1194981
+BeatmapSetID:565175

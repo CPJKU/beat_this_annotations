@@ -1,0 +1,10 @@
+Title:Shoujo to Ougonryuu no Monogatari
+TitleUnicode:少女と黄金竜の物語
+Artist:Hatsuki Yura
+ArtistUnicode:葉月ゆら
+Creator:Garden
+Version:Hard
+Source:
+Tags:清風明月 Seifuumeigetsu Drop 竜と炎の物語 ~Dragon and Flame Story~ ryuu to honoo no monogatari Hey lululu schoolboy Komore Misure Len Fast
+BeatmapID:1521716
+BeatmapSetID:719158

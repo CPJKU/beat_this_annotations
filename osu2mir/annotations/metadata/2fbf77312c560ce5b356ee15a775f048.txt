@@ -1,0 +1,10 @@
+Title:Bull's Eye
+TitleUnicode:Bull's Eye
+Artist:nano
+ArtistUnicode:ナノ
+Creator:Asphyxia
+Version:Last Trigger
+Source:緋弾のアリアAA
+Tags:Aria The Scarlet Ammo Double A opening Full Version Little Mikii moph toybot BetaStar -kevincela- kevincela Collab Collaboration CloudSplash16
+BeatmapID:857586
+BeatmapSetID:393986

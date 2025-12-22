@@ -1,0 +1,10 @@
+Title:Ichinen Nikagetsu Hatsuka
+TitleUnicode:１年２ヶ月と２０日
+Artist:BRIGHT
+ArtistUnicode:BRIGHT
+Creator:Sekai-nyan
+Version:Flask's Normal
+Source:
+Tags:SAO Sword Art Online HeatKai Sekai Nichiyouki nich95 Flask ykcarrot 1 year 2 months 20 days
+BeatmapID:238289
+BeatmapSetID:83795

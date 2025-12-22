@@ -1,0 +1,10 @@
+Title:Hello Marina
+TitleUnicode:ハローマリーナ
+Artist:inabakumori
+ArtistUnicode:稲葉曇
+Creator:Segula
+Version:Rzatlit's Hard
+Source:
+Tags:japanese pop jpop j-pop 歌愛ユキ kaai yuki 初音ミク hatsune miku  harōmarīna harō marīna haromarina haro ぬくぬくにぎりめし nukunuku nigirimeshi vocaloid zevinlevin rzatlit clubber -_clubber_- baack
+BeatmapID:3369545
+BeatmapSetID:1634616

@@ -1,0 +1,10 @@
+Title:Helena
+TitleUnicode:Helena
+Artist:My Chemical Romance
+ArtistUnicode:My Chemical Romance
+Creator:pishifat
+Version:Normal
+Source:
+Tags:cut three cheers for sweet revenge kyshiro gero mcr metal alternative punk
+BeatmapID:718946
+BeatmapSetID:320194

@@ -1,0 +1,10 @@
+Title:stella*
+TitleUnicode:stella☆
+Artist:Silent Siren
+ArtistUnicode:Silent Siren
+Creator:captin1
+Version:Easy
+Source:
+Tags:start raose climbb65588 kanpakyin
+BeatmapID:404085
+BeatmapSetID:163253

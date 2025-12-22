@@ -1,0 +1,10 @@
+Title:Ringo Ribbon
+TitleUnicode:リンゴリボン
+Artist:Touyama Nao & Yamazaki Haruka
+ArtistUnicode:東山奈央 & 山崎はるか
+Creator:Fycho
+Version:Hard
+Source:
+Tags:神のみぞ知るセカイ Kami Nomi zo Shiru Sekai ハヤテのごとく! Hayate no Gotoku nakagawa kanon suirenji ruka 中川かのん 水蓮寺ルカ
+BeatmapID:297188
+BeatmapSetID:114490

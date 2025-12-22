@@ -1,0 +1,10 @@
+Title:One Day, One Dream (TV Size)
+TitleUnicode:One Day, One Dream (TV Size)
+Artist:Tackey & Tsubasa
+ArtistUnicode:タッキー&翼
+Creator:Kei
+Version:Easy
+Source:InuYasha
+Tags:opening sunrise entertainment sorda s_o_r_d_a
+BeatmapID:226494
+BeatmapSetID:81107

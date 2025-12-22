@@ -1,0 +1,10 @@
+Title:D se Dab
+TitleUnicode:D se Dab
+Artist:Chotu (C.V: Saurav Chakraborty)
+ArtistUnicode:Chotu (C.V: সৌরভ চক্রবর্তী)
+Creator:Mismagius
+Version:deetz' Insane
+Source:
+Tags:commercial motu patlu nickelodeon india deetz
+BeatmapID:1557375
+BeatmapSetID:725103

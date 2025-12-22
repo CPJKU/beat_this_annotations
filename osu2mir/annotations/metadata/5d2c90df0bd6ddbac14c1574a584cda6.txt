@@ -1,0 +1,10 @@
+Title:Phantom Joke (TV Size)
+TitleUnicode:Phantom Joke (TV Size)
+Artist:UNISON SQUARE GARDEN
+ArtistUnicode:UNISON SQUARE GARDEN
+Creator:Nevo
+Version:SMOKELIND's Expert
+Source:Fate/Grand Order: Absolute Demonic Front - Babylonia
+Tags:usq anime japanese opening smokelind synderes glaceon armin a_r_m_i_n -絶対魔獣戦線バビロニア- Zettai Majuu Sensen
+BeatmapID:2198375
+BeatmapSetID:1051745

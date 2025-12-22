@@ -1,0 +1,10 @@
+Title:My Heart Will Go On
+TitleUnicode:My Heart Will Go On
+Artist:DragonForce
+ArtistUnicode:DragonForce
+Creator:[Karcher]
+Version:Normal
+Source:Titanic
+Tags:english rock extreme power metal EPM dragon force herman li marc hudson deathstream rsi celine dion love theme from
+BeatmapID:3385970
+BeatmapSetID:1658809

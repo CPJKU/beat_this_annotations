@@ -1,0 +1,10 @@
+Title:Heikousen
+TitleUnicode:平行線
+Artist:Sayuri
+ArtistUnicode:さユり
+Creator:Lilyanna
+Version:HB's Insane
+Source:クズの本懐
+Tags:Kuzu no honkai Parellel Line Scum's Wish scums tv size ending HB24
+BeatmapID:1205138
+BeatmapSetID:567148

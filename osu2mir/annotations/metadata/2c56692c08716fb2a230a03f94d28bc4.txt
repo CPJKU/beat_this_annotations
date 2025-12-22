@@ -1,0 +1,10 @@
+Title:Princess Blood
+TitleUnicode:Princess Blood
+Artist:Rita
+ArtistUnicode:Rita
+Creator:Zweib
+Version:Normal
+Source:Kuro No Utahime
+Tags:opening magnetism
+BeatmapID:253529
+BeatmapSetID:94112

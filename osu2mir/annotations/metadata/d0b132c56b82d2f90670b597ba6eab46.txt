@@ -1,0 +1,10 @@
+Title:Sentimental Crisis (TV Size)
+TitleUnicode:センチメンタルクライシス (TV Size)
+Artist:halca
+ArtistUnicode:halca
+Creator:ItsCactus
+Version:Rad's Insane
+Source:かぐや様は告らせたい ～天才たちの恋愛頭脳戦～
+Tags:japanese jp j pop jpop j-pop ending ed anime Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen Kaguya-sama: is A-1 Pictures radiite KPMY
+BeatmapID:3473036
+BeatmapSetID:1698859

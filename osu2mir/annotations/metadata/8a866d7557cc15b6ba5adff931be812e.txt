@@ -1,0 +1,10 @@
+Title:Saiyajin
+TitleUnicode:Saiyajin
+Artist:Thaehan
+ArtistUnicode:Thaehan
+Creator:pinataman
+Version:Normal
+Source:osu!
+Tags:Power Up Dragon ball db dbz ドラゴンボール remix Featured Artist electronic
+BeatmapID:1484422
+BeatmapSetID:656764

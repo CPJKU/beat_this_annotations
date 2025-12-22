@@ -1,0 +1,10 @@
+Title:Konna Sekai, Shiritakunakatta. (TV Size)
+TitleUnicode:こんな世界、知りたくなかった。 (TV Size)
+Artist:Sawai Miku
+ArtistUnicode:沢井美空
+Creator:wajinshu
+Version:Normal
+Source:アカメが斬る！
+Tags:Akame ga Kill! ending 1
+BeatmapID:1689137
+BeatmapSetID:804631

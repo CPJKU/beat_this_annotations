@@ -1,0 +1,10 @@
+Title:Colorful
+TitleUnicode:カラフル
+Artist:ClariS
+ArtistUnicode:ClariS
+Creator:Laurier
+Version:Normal
+Source:劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語
+Tags:gekijouban mahou shoujo madoka magika shinpen hangyaku no monogatari
+BeatmapID:338845
+BeatmapSetID:134008

@@ -1,0 +1,10 @@
+Title:Atropos
+TitleUnicode:Atröpøs
+Artist:sasakure.UK
+ArtistUnicode:sasakure.UK
+Creator:Cellina
+Version:1112's Confusing Extra
+Source:beatmania IIDX 21 SPADA
+Tags:suzuki_1112 reana rose pacifica dailycare morinaga beomsan haruto milr_ schoolboy ayalis anze gimbab komore haruto_aizawa electronic instrumental video game
+BeatmapID:1835589
+BeatmapSetID:838536

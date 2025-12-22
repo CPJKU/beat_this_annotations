@@ -1,0 +1,10 @@
+Title:Tengoku to Jigoku
+TitleUnicode:天国と地獄
+Artist:Mutsuhiko Izumi
+ArtistUnicode:Mutsuhiko Izumi
+Creator:Livermorium
+Version:Insane
+Source:jubeat
+Tags:can-can jacques offenbach electronic instrumental 泉陸奥彦 video game ミライダガッキ FutureTomTom Ver.2 plus
+BeatmapID:3359175
+BeatmapSetID:1642914

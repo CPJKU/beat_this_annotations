@@ -1,0 +1,10 @@
+Title:Fukagyaku Replace
+TitleUnicode:不可逆リプレイス
+Artist:MY FIRST STORY
+ArtistUnicode:MY FIRST STORY
+Creator:Nevo
+Version:Eli's Hard
+Source:信長協奏曲
+Tags:agatsu kudosu s00p fuju elinor [_eli_] eli maiev japanese rock Nobunaga Concerto Ending
+BeatmapID:2550231
+BeatmapSetID:1198125

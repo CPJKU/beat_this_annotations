@@ -1,0 +1,10 @@
+Title:Bergentrueckung/ASGORE
+TitleUnicode:Bergentrückung/ASGORE
+Artist:toby fox
+ArtistUnicode:toby fox
+Creator:Kaitjuh
+Version:Determination
+Source:UNDERTALE
+Tags:glaceon kowari mindmaster107 deviouspanda -Keitaro Error- Chiptune Video Game Instrumental
+BeatmapID:1895004
+BeatmapSetID:908087

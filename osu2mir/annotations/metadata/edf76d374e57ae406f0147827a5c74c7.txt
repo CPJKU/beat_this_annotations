@@ -1,0 +1,10 @@
+Title:happily ever after
+TitleUnicode:happily ever after
+Artist:Nakagawa Shouko
+ArtistUnicode:中川翔子
+Creator:smallboat
+Version:Hard
+Source:Tengen Toppa Gurren Lagann
+Tags:天元突破グレンラガン Shokotan best sound meg rock GAINAX tokyo hot blood robot fight final universe super drill anime Simon Kamina Yoko baldrace Tsukuyomi
+BeatmapID:582519
+BeatmapSetID:253823

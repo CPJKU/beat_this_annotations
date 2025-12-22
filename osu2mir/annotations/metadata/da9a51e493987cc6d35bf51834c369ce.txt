@@ -1,0 +1,10 @@
+Title:Karma
+TitleUnicode:Karma
+Artist:CircusP & Eyeris
+ArtistUnicode:CircusP & Eyeris
+Creator:Noffy
+Version:Easy
+Source:
+Tags:sleppu 715 Vocaloid English Electronic Novelty Pop Kagamine Rin 鏡音リン Circus-P VocaCircus Doofus CheezItsAreYummy matt9five Creep-P CreepP
+BeatmapID:2388283
+BeatmapSetID:1143814

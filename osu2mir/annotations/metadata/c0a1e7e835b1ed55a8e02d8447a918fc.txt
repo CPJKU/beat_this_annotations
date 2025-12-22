@@ -1,0 +1,10 @@
+Title:Utsukushiki Zankoku na Sekai (TV Size)
+TitleUnicode:美しき残酷な世界 (TV Size)
+Artist:Hikasa Yoko
+ArtistUnicode:日笠陽子
+Creator:CXu
+Version:Normal
+Source:Shingeki no Kyojin
+Tags:Attack on Titan MillhioreF ending Mikasa Ackerman Eren Jaeger 進撃の巨人
+BeatmapID:250457
+BeatmapSetID:92671

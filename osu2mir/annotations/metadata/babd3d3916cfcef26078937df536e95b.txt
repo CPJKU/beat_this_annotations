@@ -1,0 +1,10 @@
+Title:LEVEL <yanaginagi ver.>
+TitleUnicode:LEVEL ＜やなぎなぎ ver.＞
+Artist:yanaginagi x THE SIXTH LIE
+ArtistUnicode:やなぎなぎ×THE SIXTH LIE
+Creator:ItsCactus
+Version:Murada-'s Insane
+Source:天才王子の赤字国家再生術
+Tags:japanese jp pop jpop j-pop Tensai Ouji no Akaji Kokka Saisei Jutsu The Genius Prince's Guide to Raising a Nation Out of Debt Yokohama Animation Lab Murada- Ninym
+BeatmapID:3569776
+BeatmapSetID:1731620

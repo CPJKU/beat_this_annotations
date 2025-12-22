@@ -1,0 +1,10 @@
+Title:killy killy JOKER TV size
+TitleUnicode:killy killy JOKER TV size
+Artist:Wakeshima Kanon
+ArtistUnicode:分島花音
+Creator:Urushi38
+Version:Normal
+Source:selector infected WIXOSS
+Tags:opening naotyu- momimann project_railgun
+BeatmapID:397300
+BeatmapSetID:162996

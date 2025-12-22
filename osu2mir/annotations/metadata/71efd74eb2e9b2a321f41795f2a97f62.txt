@@ -1,0 +1,10 @@
+Title:DARAKENA (TV-size)
+TitleUnicode:DARAKENA (TV-size)
+Artist:Iori Nomizu
+ArtistUnicode:野水いおり
+Creator:handsome
+Version:Hard
+Source:棺姫のチャイカ
+Tags:chaika the coffin princess hitsugi no
+BeatmapID:955309
+BeatmapSetID:442276

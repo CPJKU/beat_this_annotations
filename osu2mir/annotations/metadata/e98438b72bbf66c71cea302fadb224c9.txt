@@ -1,0 +1,10 @@
+Title:Aikotoba TV Size ver.
+TitleUnicode:アイコトバ TV Size ver.
+Artist:GARNiDELiA
+ArtistUnicode:GARNiDELiA
+Creator:Underforest
+Version:Insane
+Source:アニメガタリズ
+Tags:animegataris anime gataris opening ガルニデリア 阿部 尚徳 Yoshinori Abe 水橋 舞 Mai Mizuhashi MARiA メイリア
+BeatmapID:1441454
+BeatmapSetID:681714

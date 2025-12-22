@@ -1,0 +1,10 @@
+Title:Marathon
+TitleUnicode:マラソン
+Artist:Hanazawa Kana
+ArtistUnicode:花澤香菜
+Creator:Sotarks
+Version:apple's Expert
+Source:
+Tags:pkhg appleeaterx akitoshi corinn
+BeatmapID:1462836
+BeatmapSetID:691239

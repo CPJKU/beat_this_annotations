@@ -1,0 +1,10 @@
+Title:Hello!My World!!
+TitleUnicode:Hello!My World!!
+Artist:fhana
+ArtistUnicode:fhána
+Creator:Sotarks
+Version:Kalihas' Insane
+Source:ナイツ&マジック
+Tags:Knight's & Magic ending ed full ver version lantis Junichi Sato yuxuki waga kevin mitsunaga towana doormat akitoshi corinn kalibe irohas mugiwarasekai toybot haruto haruto_aizawa
+BeatmapID:1407599
+BeatmapSetID:657341

@@ -1,0 +1,10 @@
+Title:Frightmare
+TitleUnicode:Frightmare
+Artist:Strangers feat. Myles Travitz
+ArtistUnicode:Strangers feat. Myles Travitz
+Creator:Shadren
+Version:Insane
+Source:
+Tags:complextro electro house alexabm trigonometry bragador collaboration collab
+BeatmapID:482453
+BeatmapSetID:204319

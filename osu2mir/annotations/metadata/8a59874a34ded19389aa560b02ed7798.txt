@@ -1,0 +1,10 @@
+Title:Delusion Girl
+TitleUnicode:Delusion Girl
+Artist:TOUYU
+ArtistUnicode:灯油
+Creator:Hailie
+Version:Advanced
+Source:
+Tags:Sidu Norita Shun KaiseiP Shirakami Mashiro Hatsune Miku Vocaloid Akitoshi Cut Version
+BeatmapID:1516728
+BeatmapSetID:717276

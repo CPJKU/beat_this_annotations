@@ -1,0 +1,10 @@
+Title:Anoyo-iki no Bus ni Notte Saraba.
+TitleUnicode:あの世行きのバスに乗ってさらば。
+Artist:TUYU
+ArtistUnicode:ツユ
+Creator:SnowNiNo_
+Version:Flask's Extra
+Source:
+Tags:japanese rock curi farewell on that bus tsuyu omotatsu pusu rei yappari ame wa ha furun da ne its it's raining after all やっぱり雨は降るんだね AzyuN おむたつ ぷす 礼衣 Nao Tomori naotoshi Reillia [C u r i] Flask captin1 Luscent rui
+BeatmapID:2329321
+BeatmapSetID:1070357

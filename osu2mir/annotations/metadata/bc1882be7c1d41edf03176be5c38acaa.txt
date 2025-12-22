@@ -1,0 +1,10 @@
+Title:Think Alone
+TitleUnicode:シンカロン
+Artist:Reol
+ArtistUnicode:れをる
+Creator:DeRandom Otaku
+Version:Evolutionism
+Source:
+Tags:japanese jpop pop BunmeiEP Bunmei shinkaron ren fuju ermi kowari modding queue giga
+BeatmapID:2352233
+BeatmapSetID:1125778

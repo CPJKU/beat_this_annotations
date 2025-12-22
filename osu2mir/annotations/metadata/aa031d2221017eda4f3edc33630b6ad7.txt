@@ -1,0 +1,10 @@
+Title:Koukan Win-Win Mujouken
+TitleUnicode:好感Win-Win無条件
+Artist:Heart Invader
+ArtistUnicode:ハート♡インベーダー
+Creator:Fycho
+Version:Easy
+Source:六畳間の侵略者!?
+Tags:rokujouma no shinryakusha opening
+BeatmapID:460845
+BeatmapSetID:193980

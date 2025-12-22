@@ -1,0 +1,10 @@
+Title:AMAZING BREAK (TV-size)
+TitleUnicode:AMAZING BREAK（TVサイズ）
+Artist:TERRASPEX
+ArtistUnicode:TERRASPEX
+Creator:kunka
+Version:Insane
+Source:TERRA FORMARS
+Tags:opening -maruk- kunkakunkakunkakunka テラフォーマーズ bugs anex mars
+BeatmapID:526967
+BeatmapSetID:225905

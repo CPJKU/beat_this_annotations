@@ -1,0 +1,10 @@
+Title:One Last Kiss
+TitleUnicode:One Last Kiss
+Artist:Utada Hikaru
+ArtistUnicode:宇多田ヒカル
+Creator:moph
+Version:Insane
+Source:シン・エヴァンゲリオン劇場版:||
+Tags:evangelion 3.0+1.0 thrice upon a time jpop japanese pop j-pop anime eva neon genesis shin rebuild 4.0
+BeatmapID:3197402
+BeatmapSetID:1565827

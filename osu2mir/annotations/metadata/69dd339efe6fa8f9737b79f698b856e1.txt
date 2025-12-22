@@ -1,0 +1,10 @@
+Title:Ningyou wa Tasogare ni Yume o Miru ka
+TitleUnicode:人形は黄昏に夢を見るか
+Artist:Kakka
+ArtistUnicode:閣下
+Creator:ponbot
+Version:PogumaX Insane ft. rrtyui
+Source:
+Tags:絶対征服わんわん zettai seifuku wanwan つゆり花鈴 tsuyuri karin かそかそ kasokaso japanese rock jrock j-rock kogumax rrtyui
+BeatmapID:2648827
+BeatmapSetID:1138639

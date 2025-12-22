@@ -1,0 +1,10 @@
+Title:Don't say "lazy" (TV size Ver.)
+TitleUnicode:Don’t say “lazy”（TV size Ver.）
+Artist:Sakurakou K-ON Bu
+ArtistUnicode:桜高軽音部
+Creator:Asuka_-
+Version:Easy
+Source:けいおん！
+Tags:HTT 平沢唯 秋山澪 田井中律 琴吹紬 豊崎愛生 日笠陽子佐藤聡美 寿美菜子 Hirasawa Yui Akiyama Mio Tainaka Ritsu Kotobuki Tsumugi Toyosaki Aki Hikasa Youko Satou satomi Kotobuki Minako K-ON! Yasaija 714
+BeatmapID:1398468
+BeatmapSetID:659531

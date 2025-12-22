@@ -1,0 +1,10 @@
+Title:Buriki no Dance
+TitleUnicode:ブリキノダンス
+Artist:96neko
+ArtistUnicode:96猫
+Creator:Kimchi Sandwich
+Version:M i X's Insane
+Source:
+Tags:w_m 日向電工 hinata electric works utaite cover mix wm japanese pop 嘘の火花 (Special Edition) mix M_i_X Uso no Hibana
+BeatmapID:2716070
+BeatmapSetID:1296562

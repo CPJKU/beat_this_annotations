@@ -1,0 +1,10 @@
+Title:Here
+TitleUnicode:Here
+Artist:JUNNA
+ArtistUnicode:JUNNA
+Creator:Hakura
+Version:Sandwich Silky
+Source:魔法使いの嫁
+Tags:The Ancient Magus' Bride Mahoutsukai no Yome opening tv size
+BeatmapID:1508554
+BeatmapSetID:713756

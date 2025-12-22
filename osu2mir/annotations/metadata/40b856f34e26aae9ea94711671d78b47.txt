@@ -1,0 +1,10 @@
+Title:STORY (TV Size)
+TitleUnicode:STORY (TV Size)
+Artist:Kensho Ono
+ArtistUnicode:小野賢章
+Creator:Xexxar
+Version:A r M i N's Extreme
+Source:ラクエンロジック
+Tags:luck & logic anime xr a_r_m_i_n armin sotarks syph borborygmos akitoshi Hobbes2 and milkshake _83
+BeatmapID:1271007
+BeatmapSetID:598357

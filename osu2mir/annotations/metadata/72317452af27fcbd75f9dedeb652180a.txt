@@ -1,0 +1,10 @@
+Title:the executioner
+TitleUnicode:the executioner
+Artist:zts
+ArtistUnicode:zts
+Creator:-kevincela-
+Version:Hard
+Source:うみねこのなく頃に散
+Tags:07th Expansion Sieg Umineko no Naku Koro ni Chiru czl code zts label musicbox red
+BeatmapID:758016
+BeatmapSetID:342360

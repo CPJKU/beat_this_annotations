@@ -1,0 +1,10 @@
+Title:Katamari on the Wings
+TitleUnicode:塊オンザウィングス
+Artist:Oohashi Takuya (from Sukima Switch)
+ArtistUnicode:大橋卓弥（from スキマスイッチ）
+Creator:melon boy
+Version:Advanced
+Source:塊魂TRIBUTE
+Tags:owc2022 ro32 nm1 fuccho sagon verychill owc osu! world cup 2022 katamari damacy tribute forever japanese video game jpop pop
+BeatmapID:3872106
+BeatmapSetID:1867650

@@ -1,0 +1,10 @@
+Title:KOWAREYASUKI
+TitleUnicode:コワレヤスキ
+Artist:Guilty Kiss
+ArtistUnicode:Guilty Kiss
+Creator:ktgster
+Version:Hard
+Source:Love Live! Sunshine!!
+Tags:ラブライブ！サンシャイン!! school idol project aqours mari ohara aina suzuki 鈴木愛奈 riko sakurauchi rikako aida 逢田梨香子 yoshiko tsushima kobayashi aika 小林愛香
+BeatmapID:1619871
+BeatmapSetID:766867

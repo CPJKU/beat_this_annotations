@@ -1,0 +1,10 @@
+Title:Hearts
+TitleUnicode:Hearts
+Artist:Tokoyami Towa
+ArtistUnicode:常闇トワ
+Creator:Mocaotic
+Version:Amateurre and Boppin's Insane
+Source:
+Tags:amateurre boppin japanese rock hololive ホロライブ virtual youtuber vtuber vocaloid cover niki lily
+BeatmapID:3264474
+BeatmapSetID:1588756

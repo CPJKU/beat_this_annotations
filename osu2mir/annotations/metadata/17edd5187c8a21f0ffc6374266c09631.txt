@@ -1,0 +1,10 @@
+Title:Sayonara kara Hajimaru Monogatari
+TitleUnicode:サヨナラから始まる物語
+Artist:Hoshimi Production
+ArtistUnicode:星見プロダクション
+Creator:_kotachi_
+Version:sanairrt's Normal
+Source:IDOLY PRIDE
+Tags:アイドリープライド アイプラ japanese jp pop jpop j-pop anime video game Tsuki no Tempest 月のテンペスト Nagase Kotono 長瀬琴乃 tachibana mirai 橘美來 Ibuki Nagisa 伊吹渚 natsume kokona 夏目ここな Shiraishi Saki 白石沙季 miyazawa koharu 宮沢小春 Narumiya Suzu 成宮すず aikawa kanata 相川奏多 Hayasaka Mei 早坂芽衣 hinata moka 日向もか Sunny Peace サニーピース Kawasaki Sakura 川咲さくら kanno mai 菅野真衣 Ichinose Rei 一ノ瀬怜 yuuki yuki moeko 結城萌子 Saeki Haruko 佐伯遙子 sasaki nao 佐々木奈緒 Chisa 白石千紗 takao kanon 高尾奏音 Hyodo Shizuku 兵藤雫 aikawa kanata 相川奏多 -Brethia sanairrt -_ex_- AsuKow Meg iMage-- kuei otudou -Rei
+BeatmapID:3740807
+BeatmapSetID:1522743

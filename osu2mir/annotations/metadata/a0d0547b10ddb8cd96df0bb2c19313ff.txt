@@ -1,0 +1,10 @@
+Title:Night Witches
+TitleUnicode:Night Witches
+Artist:Sabaton
+ArtistUnicode:Sabaton
+Creator:PantyDev
+Version:Normal
+Source:
+Tags:588 female night bomber regiment 46 po-2 polikarpov soviet world war II great patriotic war KeRLi_ Waaif piroshki
+BeatmapID:2467915
+BeatmapSetID:1177947

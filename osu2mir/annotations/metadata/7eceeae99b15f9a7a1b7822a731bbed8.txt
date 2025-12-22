@@ -1,0 +1,10 @@
+Title:Hope
+TitleUnicode:Hope
+Artist:Namie Amuro
+ArtistUnicode:安室奈美恵
+Creator:iYiyo
+Version:Insane
+Source:ONE PIECE
+Tags:Atsuro Cris- Irohas Mugiwarasekai opening 20 Sanji
+BeatmapID:1432615
+BeatmapSetID:677398

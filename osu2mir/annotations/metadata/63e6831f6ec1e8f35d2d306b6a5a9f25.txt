@@ -1,0 +1,10 @@
+Title:Kaeri wa Kowai
+TitleUnicode:かえりはこわい
+Artist:UNDEAD CORPORATION
+ArtistUnicode:UNDEAD CORPORATION
+Creator:walaowey
+Version:Magic Butterfly
+Source:東方星蓮船　～ Undefined Fantastic Object.
+Tags:High Tempo Beatmap Pack FA Featured Artist Gremio Mappers' Guild MG 鬼ーONIー TOHO Complete Box 東方Project Touhou Japanese Instrumental Videogame video game byakuren hijiri 聖 白蓮 法界の火 fires of hokkai kaheri is scary 鬼伽草子 Oni Fairy-tale Book
+BeatmapID:2144639
+BeatmapSetID:1025382
