@@ -2,6 +2,9 @@
 
 This repo contains the beat annotations for the ISMIR 2024 paper "[Beat This! Accurate Beat Tracking Without DBN Postprocessing](https://arxiv.org/abs/2407.21658)" by Francesco Foscarin, Jan Schlüter and Gerhard Widmer.
 
+The original annotations used in the paper are in [v1.0](https://github.com/CPJKU/beat_this_annotations/releases/tag/v1.0). 
+A new version with some corrected annotations is available in [v1.1](https://github.com/CPJKU/beat_this_annotations/releases/tag/v1.1).
+
 The beat tracker that was presented in the paper is publicly available [here](https://github.com/CPJKU/beat_this).
 
 ### Acknowledgments
@@ -16,10 +19,10 @@ We thank the authors of the annotations. Below you can find the link to our sour
 - [gtzan](https://github.com/superbock/ISMIR2019).
 - [guitarset](https://github.com/marl/GuitarSet). This was downloaded from [mir_data](https://github.com/mir-dataset-loaders/mirdata/tree/master).
 - [hainsworth](https://github.com/superbock/ISMIR2019).
-- [harmonix](https://github.com/urinieto/harmonixset). The dataset was reproduced and partially corrected [in this paper](https://arxiv.org/abs/2205.14701). Please cite both the original paper and the modified version.
+- [harmonix](https://github.com/urinieto/harmonixset). The dataset was reproduced and partially corrected [in this paper](https://arxiv.org/abs/2205.14701). Please cite both the original paper and the modified version. In v1.1 one piece with a negative onset was corrected by Francesco Foscarin.
 - [hjdb](https://github.com/superbock/ISMIR2019).
 - [jaah](https://github.com/MTG/JAAH). The existing beat annotations were corrected, and downbeat annotations were added by Richard Vogl and Francesco Foscarin.
-- [rwc](https://staff.aist.go.jp/m.goto/RWC-MDB/). The RWC pop annotations were partially corrected by Sebastian Böck. *Warning: After publishing the beat_this paper, we noticed that a few annotation files were not properly converted from the original format, and are therefore not correct. We still release the uncorrected annotations for reproducibility, and we will correct them in a future dataset release.*
+- [rwc](https://staff.aist.go.jp/m.goto/RWC-MDB/). The RWC pop annotations were partially corrected by Sebastian Böck, and in v1.1 by Francesco Foscarin.
 - [simac](https://github.com/superbock/ISMIR2019).
 - [smc](https://github.com/superbock/ISMIR2019).
 - [tapcorrect](https://github.com/chordify/tapcorrect).
