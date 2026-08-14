@@ -1,0 +1,10 @@
+Title:Senbonzakura
+TitleUnicode:千本桜
+Artist:Wagakki Band
+ArtistUnicode:和楽器バンド
+Creator:pkk
+Version:Easy
+Source:
+Tags:Vocalo Zanmai ボカロ三昧 Yasou Emaki 八奏絵巻 pkmnyab
+BeatmapID:1006036
+BeatmapSetID:427508

@@ -1,0 +1,10 @@
+Title:Tsukinami
+TitleUnicode:ツキナミ
+Artist:Wakeshima Kanon
+ArtistUnicode:分島花音
+Creator:Reform
+Version:Onlybiscuit's Extra
+Source:
+Tags:Kujinn SMOKELIND Onlybiscuit jpop j-pop japanese neo-classical female vocalist
+BeatmapID:1924025
+BeatmapSetID:896080

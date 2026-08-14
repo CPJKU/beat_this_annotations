@@ -1,0 +1,10 @@
+Title:Asgard
+TitleUnicode:Asgard
+Artist:Yousei Teikoku
+ArtistUnicode:妖精帝國
+Creator:Death Rock
+Version:Normal
+Source:fortissimo//Akkord:Bsusvier
+Tags:Lucifer Visual Novel eroge opening game
+BeatmapID:264222
+BeatmapSetID:99090

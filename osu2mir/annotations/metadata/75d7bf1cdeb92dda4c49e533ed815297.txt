@@ -1,0 +1,10 @@
+Title:Wings of light
+TitleUnicode:Wings of light
+Artist:Akitsuki Fuuka (CV: Lynn)
+ArtistUnicode:秋月 風夏 (CV: Lynn)
+Creator:HowRengar
+Version:Insane
+Source:Fuuka
+Tags:風夏 WEST GROUND Seo Koji anime japanese
+BeatmapID:2090815
+BeatmapSetID:945503

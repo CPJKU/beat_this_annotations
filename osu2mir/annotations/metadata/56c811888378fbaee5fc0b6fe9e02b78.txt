@@ -1,0 +1,10 @@
+Title:ambiguous
+TitleUnicode:ambiguous
+Artist:GARNiDELiA
+ArtistUnicode:GARNiDELiA
+Creator:captin1
+Version:Insane
+Source:キルラキル
+Tags:kill la opening full maria luxodeh sukinathan natsu
+BeatmapID:680886
+BeatmapSetID:303867

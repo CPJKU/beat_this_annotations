@@ -1,0 +1,10 @@
+Title:Kimi ga Sora Koso Kanashikere
+TitleUnicode:君ガ空コソカナシケレ
+Artist:CHiCO with HoneyWorks
+ArtistUnicode:CHiCO with HoneyWorks
+Creator:Serizawa Haruki
+Version:Elgatsu's Sorrow
+Source:
+Tags:ハニーワークス ハニワ 世界はｉに満ちている Sekai wa Ai ni Michiteiru 兎眠りおん Tone Rion 初音ミク Hatsune Miku ボーカロイド Vocaloid ゴム Gom フェルナンドP Fernando-P シト shito チョリスP Chorisu-P オジ Oji 海賊王 Kaizoku Ou Japanese Rock J-rock Jrock Jack J_a_c_k Cris- Kowari Akitoshi -Laura- Corinn Seolv [_L_u_k_a_s] Lukas William K William_K Taeyang Xen Xehn Xenon- Agatsu Elcheer
+BeatmapID:1964722
+BeatmapSetID:940746

@@ -1,0 +1,10 @@
+Title:DICE
+TitleUnicode:DICE
+Artist:BAND-MAID
+ArtistUnicode:BAND-MAID
+Creator:Lasse
+Version:HARD.
+Source:
+Tags:bandmaid world domination japanese rock english
+BeatmapID:2594990
+BeatmapSetID:1248526

@@ -1,0 +1,10 @@
+Title:Rock It For Me
+TitleUnicode:Rock It For Me
+Artist:Caravan Palace
+ArtistUnicode:Caravan Palace
+Creator:tiper
+Version:Normal
+Source:
+Tags:senaya electroswing swing panic
+BeatmapID:227992
+BeatmapSetID:69041

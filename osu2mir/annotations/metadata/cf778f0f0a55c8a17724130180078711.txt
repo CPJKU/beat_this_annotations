@@ -1,0 +1,10 @@
+Title:conflict
+TitleUnicode:conflict
+Artist:siromaru + cranky
+ArtistUnicode:siromaru + cranky
+Creator:yf_bmp
+Version:XLT's Expert
+Source:THE BMS OF FIGHTERS 2011 - Intersection of conflict -
+Tags:iimo HARMONIC SCHRANZ electronic conlang english BOF2011 Arcaea SOUND VOLTEX III GRAVITY WARS maimai FiNALE DX Cytus II Deemo VOEZ Synchronica Taiko no Tatsujin CHUNITHM O.N.G.E.K.I ongeki Muse Dash TAPSONIC TOP Groove Coaster Waiwai Party!!!! 2 Original Style RHYTHMVADERS WACCA SEVEN's CODE Dance Rail Respect PUMP IT UP Orzmic TAKUMI X_Light Yorita_Yoshino Setu StrengeMistake X Light Yorita Yoshino video rhythm game featured artist fa mappers' guild mappers mpg
+BeatmapID:3321542
+BeatmapSetID:1212359

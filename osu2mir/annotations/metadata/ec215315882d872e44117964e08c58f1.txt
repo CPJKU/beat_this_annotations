@@ -1,0 +1,10 @@
+Title:Image
+TitleUnicode:Image
+Artist:SCANDAL
+ArtistUnicode:SCANDAL
+Creator:Sotarks
+Version:Akitoshi's Normal
+Source:
+Tags:pkhg akitoshi yuii- haruna ono tomomi ogawa mami sasazaki rina suzuki kawaguchi keita hello world
+BeatmapID:1074685
+BeatmapSetID:466737

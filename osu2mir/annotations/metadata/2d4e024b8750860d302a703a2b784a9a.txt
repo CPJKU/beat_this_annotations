@@ -1,0 +1,10 @@
+Title:quaver
+TitleUnicode:quaver ♪
+Artist:dj TAKA
+ArtistUnicode:dj TAKA
+Creator:Monstrata
+Version:NiNo's Extra
+Source:REFLEC BEAT limelight
+Tags:true blue risk junk snownino_ haruto haruto_aizawa [ Joey ] Aia beatmania IIDX 19 Lincle jubeat saucer jukebeat KONAMI music pack 25 pop'n music Sunny Park plus MUSIC PACK 29 + ポップンリズミン パック1 MUSIC PACK 19
+BeatmapID:917129
+BeatmapSetID:423527

@@ -1,0 +1,10 @@
+Title:Renatus
+TitleUnicode:Renatus
+Artist:Soleily
+ArtistUnicode:Soleily
+Creator:ExPew
+Version:Normal
+Source:
+Tags:MBC7 Unisphere 地球ヤバイEP Chikyu Yabai
+BeatmapID:557820
+BeatmapSetID:241526

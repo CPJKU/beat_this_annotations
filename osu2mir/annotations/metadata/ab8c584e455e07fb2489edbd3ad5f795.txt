@@ -1,0 +1,10 @@
+Title:Symbol (TV Size)
+TitleUnicode:シンボル (TV Size)
+Artist:Luck Life
+ArtistUnicode:ラックライフ
+Creator:Cris-
+Version:Rin Desu's Normal
+Source:食戟のソーマ 餐ノ皿
+Tags:Rin Desu Rin_Desu wolf3211 Shokugeki no Soma San no Sara Toutsuki Ressha-hen Food Wars Season 3 Opening 2 J.C.Staff
+BeatmapID:1608569
+BeatmapSetID:762407

@@ -1,0 +1,10 @@
+Title:Chloe
+TitleUnicode:Chloé
+Artist:DJ Totoriott
+ArtistUnicode:DJ Totoriott
+Creator:Yusomi
+Version:Advanced
+Source:jubeat prop
+Tags:fanzhen0019 yf_bmp Video game electronic instrumental Smith no kimagure gentle スミスのきまぐれジェントル Yoshihiro Tagawa
+BeatmapID:1686291
+BeatmapSetID:768982

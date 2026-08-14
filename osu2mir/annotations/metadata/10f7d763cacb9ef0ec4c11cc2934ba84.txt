@@ -1,0 +1,10 @@
+Title:Hikari (PLANITb Remix)
+TitleUnicode:光 (PLANITb Remix)
+Artist:Utada Hikaru
+ArtistUnicode:宇多田ヒカル
+Creator:Yasora
+Version:Normal
+Source:Kingdom Hearts
+Tags:Chain of Memories Birth by Sleep Re:coded Simple and Clean Disney Square Enix Byakugan249
+BeatmapID:169281
+BeatmapSetID:55836

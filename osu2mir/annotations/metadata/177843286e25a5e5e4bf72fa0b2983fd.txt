@@ -1,0 +1,10 @@
+Title:A True, True Friend
+TitleUnicode:A True, True Friend
+Artist:Daniel Ingram
+ArtistUnicode:Daniel Ingram
+Creator:ztrot
+Version:Hard
+Source:My Little Pony : Friendship is Magic
+Tags:mlp twilight sparkle rainbow dash pinkie pie rarity fluttershy applejack Dark_Ai true true
+BeatmapID:226660
+BeatmapSetID:81493

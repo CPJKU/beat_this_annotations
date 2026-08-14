@@ -1,0 +1,10 @@
+Title:Senpai.
+TitleUnicode:センパイ。
+Artist:sana
+ArtistUnicode:鎖那
+Creator:Kyuukai
+Version:Umi's Normal
+Source:好きになるその瞬間を。～告白実行委員会～
+Tags:The Moment You Fall in Love suki ni naru sono shunkan wo kokuhaku jikkou iinkai opening honeyworks meets trysail litoluna yaleufeu umi lasse
+BeatmapID:1384676
+BeatmapSetID:637706

@@ -1,0 +1,10 @@
+Title:Toki o Kizamu Uta - TV animation Ver. -
+TitleUnicode:時を刻む唄　- TV animation Ver. -
+Artist:Lia
+ArtistUnicode:Lia
+Creator:Lanturn
+Version:Doyak's Nagisa-Insane
+Source:CLANNAD AFTER STORY
+Tags:wo Maeda Jun Key Sounds Label TORCH 麻枝准 OP Opening Size クラナド アフターストーリー Yohanes pkhg Doyak yaldo_27
+BeatmapID:1010309
+BeatmapSetID:438531

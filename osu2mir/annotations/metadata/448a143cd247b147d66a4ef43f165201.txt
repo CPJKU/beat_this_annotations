@@ -1,0 +1,10 @@
+Title:Aqua Terrarium (TV Size)
+TitleUnicode:アクアテラリウム (TV Size)
+Artist:yanaginagi
+ArtistUnicode:やなぎなぎ
+Creator:Sharlo
+Version:Hard
+Source:Nagi no Asukara
+Tags:nagi 凪のあすから 石川智晶 MATERIAL WORLD ending
+BeatmapID:333415
+BeatmapSetID:132621

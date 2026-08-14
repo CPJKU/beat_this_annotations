@@ -1,0 +1,10 @@
+Title:Shiawase Iro
+TitleUnicode:しあわせ色
+Artist:Hiiragi Mayuki(CV:Ogura Yui)/Hagino Chiaki(CV:Toujou Hisako)
+ArtistUnicode:柊 真雪(CV：小倉 唯)／萩野千秋(CV：東城日沙子)
+Creator:Asuka_-
+Version:Insane
+Source:ひなこのーと
+Tags:Hinako note Gekidan Hitotose Akitoshi RepL4y
+BeatmapID:1297716
+BeatmapSetID:614419

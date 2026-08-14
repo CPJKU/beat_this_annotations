@@ -1,0 +1,10 @@
+Title:Telecaster Stripe
+TitleUnicode:テレキャスター・ストライプ
+Artist:POLKADOT STINGRAY
+ArtistUnicode:ポルカドットスティングレイ
+Creator:moph
+Version:Extra
+Source:
+Tags:Zenchizennō 全知全能 Honenuki 骨抜き jrock
+BeatmapID:2028973
+BeatmapSetID:969845

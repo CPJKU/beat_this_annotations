@@ -1,0 +1,10 @@
+Title:Sangenshoku
+TitleUnicode:三原色
+Artist:YOASOBI
+ArtistUnicode:YOASOBI
+Creator:BaAR_Vendel
+Version:Hard
+Source:
+Tags:japanese pop jpop j-pop ayase ikura 幾田りら ikuta lilas rgb the book 2 ahamo short ver. version houshou hari paradogi
+BeatmapID:3313194
+BeatmapSetID:1519502

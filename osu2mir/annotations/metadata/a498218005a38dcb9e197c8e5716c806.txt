@@ -1,0 +1,10 @@
+Title:Senorita
+TitleUnicode:Senorita
+Artist:(G)I-DLE
+ArtistUnicode:(여자)아이들
+Creator:Seto Kousuke
+Version:Normal
+Source:
+Tags:K-pop Kpop Mapping Contest V2 Senhorita Korean Pop 큐브엔터테인먼트 Cube Entertainment I Made 미연 Miyeon 민니 Minnie 수진 Soojin 소연 Soyeon 우기 Yuqi 슈화 Shuhua señorita
+BeatmapID:2146096
+BeatmapSetID:1026178

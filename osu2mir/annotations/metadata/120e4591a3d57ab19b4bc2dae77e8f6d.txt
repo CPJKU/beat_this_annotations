@@ -1,0 +1,10 @@
+Title:to the beginning (TV Size)
+TitleUnicode:
+Artist:Kalafina
+ArtistUnicode:
+Creator:Nyquill
+Version:Insane
+Source:Fate/Zero
+Tags:Mythol NoHitter Opening
+BeatmapID:149693
+BeatmapSetID:48408

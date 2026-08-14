@@ -1,0 +1,10 @@
+Title:Last Promise (TV Size)
+TitleUnicode:Last Promise (TV Size)
+Artist:Yamazaki Erii
+ArtistUnicode:山崎エリイ
+Creator:Sidetail
+Version:Normal
+Source:デート・ア・ライブⅢ
+Tags:date a live dal iii third 3rd season ending anime japanese affirmation neoskylove naotoshi nao_tomori taeyang
+BeatmapID:2071386
+BeatmapSetID:989761

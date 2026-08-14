@@ -1,0 +1,10 @@
+Title:Lyrith -Meikyuu Lyrith-
+TitleUnicode:Lyrith -迷宮リリス-
+Artist:yumemidoll
+ArtistUnicode:ユメミド
+Creator:eiri-
+Version:Alheak's Extra
+Source:BMS
+Tags:Ayyri Alheak Uberzolik Fizz Dashyy- Dash Shiinoha Kotone Tomadoi Armin A_r_M_i_N Nokris Reya LunarBlossom LeaF Yumemido BOFU2017 -LEGENDA EST A MYTH- THE BMS OF FIGHTERS ULTIMATE 2017 めいきゅう 孤高クローバー エース 遥壱朗 テンソル FRENZ2017 IRON MAIDEN Optie
+BeatmapID:1593926
+BeatmapSetID:757681

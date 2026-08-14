@@ -1,0 +1,10 @@
+Title:Colorful
+TitleUnicode:カラフル
+Artist:ClariS
+ArtistUnicode:ClariS
+Creator:CloudSplash16
+Version:Xinely's Normal
+Source:劇場版 魔法少女まどか☆マギカ[新編] 叛逆の物語
+Tags:gekijouban mahou shoujo madoka magika shinhen hangyaku no monogatari puella magi magica movie rebellion fycho xinely
+BeatmapID:335444
+BeatmapSetID:132007

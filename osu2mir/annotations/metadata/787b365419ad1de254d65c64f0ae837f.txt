@@ -1,0 +1,10 @@
+Title:Charisma Rengoku Tenshin
+TitleUnicode:カリスマ煉獄天神
+Artist:ShinRa-Bansho
+ArtistUnicode:森羅万象
+Creator:gazimal
+Version:iRedi's Hard
+Source:東方鬼形獣　～ Wily Beast and Weakest Creature.
+Tags:touhou kikeijyu あやぽんず＊ あよ ayaponzu ayo My Angel Jeremy iRedi electronic kaztora Hedonist Pira あをき aoki 吉弔八千慧 kicchou yachie トータスドラゴン～幸運と不運 Tortoise Dragon ~Fortune and Misfortune japanese video game project 上海アリス幻樂団 Team Shanghai Alice 太田 順也 ZUN TH 17 東方 Comiket 98 Stage 4 Boss Theme 東方project
+BeatmapID:3761951
+BeatmapSetID:1808183

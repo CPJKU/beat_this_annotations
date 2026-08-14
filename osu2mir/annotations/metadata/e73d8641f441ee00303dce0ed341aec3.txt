@@ -1,0 +1,10 @@
+Title:Hole In The Heart
+TitleUnicode:心に穴が空いた
+Artist:Yorushika
+ArtistUnicode:ヨルシカ
+Creator:Ryuusei Aika
+Version:deetz' Extra
+Source:
+Tags:Kokoro ni Ana ga Aita ujimatcha kalibe coloured glazee coloured_glazee Senseabel deetz mirash ナブナ nbuna n-buna スイ suis エルマ elma
+BeatmapID:2104942
+BeatmapSetID:1000972

@@ -1,0 +1,10 @@
+Title:Children Record
+TitleUnicode:Children Record
+Artist:Jin
+ArtistUnicode:Jin
+Creator:tutuhaha
+Version:Sp3's Taiko
+Source:Vocaloid
+Tags:vocaloid3 spboxer3 IA
+BeatmapID:169166
+BeatmapSetID:55775

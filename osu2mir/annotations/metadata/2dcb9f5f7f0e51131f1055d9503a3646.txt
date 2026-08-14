@@ -1,0 +1,10 @@
+Title:Kara no Kokoro
+TitleUnicode:カラノココロ
+Artist:Anly
+ArtistUnicode:Anly
+Creator:-Sh1n1-
+Version:Insane
+Source:NARUTO-ナルト- 疾風伝
+Tags:opening op20 seventh team Uzumaki Shippuden Hurricane Chronicles shini sotarks
+BeatmapID:1283491
+BeatmapSetID:607680

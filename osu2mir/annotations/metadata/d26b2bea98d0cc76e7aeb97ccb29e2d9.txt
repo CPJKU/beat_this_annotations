@@ -1,0 +1,10 @@
+Title:World's End Valentine
+TitleUnicode:World's End Valentine
+Artist:Pedro Silva
+ArtistUnicode:Pedro Silva
+Creator:Fall
+Version:Wanpachi's Normal
+Source:OMORI
+Tags:video game videogame ost soundtrack original electronic instrumental boss fight sweetheart kel aubrey hero omori sunny mari basil chiptune _tranquility hooni wither wanpachi cycopton omocat 086 86 vgm
+BeatmapID:2930184
+BeatmapSetID:1412590

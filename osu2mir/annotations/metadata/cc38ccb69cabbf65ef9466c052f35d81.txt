@@ -1,0 +1,10 @@
+Title:Future Candy
+TitleUnicode:Future Cαndy
+Artist:YUC'e
+ArtistUnicode:YUC'e
+Creator:Nathan
+Version:Normal
+Source:
+Tags:future bass sukinathan -tochi ゆーしえ
+BeatmapID:1521210
+BeatmapSetID:546820

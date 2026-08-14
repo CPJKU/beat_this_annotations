@@ -1,0 +1,10 @@
+Title:Mezase Pokemon Master -20th Anniversary-
+TitleUnicode:めざせポケモンマスター -20th Anniversary-
+Artist:Rica Matsumoto
+ArtistUnicode:松本梨香
+Creator:leo16834
+Version:Hard
+Source:ポケットモンスター　サン＆ムーン
+Tags:pocket monster Sun Moon satoshi Ash pikachu pokémon Xinchii CookieBite
+BeatmapID:1407565
+BeatmapSetID:649647

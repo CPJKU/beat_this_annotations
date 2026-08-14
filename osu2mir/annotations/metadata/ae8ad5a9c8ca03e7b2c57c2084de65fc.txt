@@ -1,0 +1,10 @@
+Title:Shelter (happy30 Remix)
+TitleUnicode:Shelter (happy30 Remix)
+Artist:Porter Robinson & Madeon
+ArtistUnicode:Porter Robinson & Madeon
+Creator:happy30
+Version:Extreme
+Source:Shelter
+Tags:happythirsty
+BeatmapID:1119328
+BeatmapSetID:527621

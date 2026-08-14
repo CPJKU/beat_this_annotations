@@ -1,0 +1,10 @@
+Title:Daidai Genome
+TitleUnicode:橙ゲノム
+Artist:Tsunamaru
+ArtistUnicode:つなまる
+Creator:Lust
+Version:Kinshara's Normal
+Source:
+Tags:Orange Genome Hatsune Miku Append Mezame-P Wakotsu-P f*cla Not-116 kenji kinshara
+BeatmapID:536299
+BeatmapSetID:221954

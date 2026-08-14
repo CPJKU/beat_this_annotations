@@ -1,0 +1,10 @@
+Title:Koko de Isseki! Oshama Scramble!
+TitleUnicode:ここで一席！　Oshama Scramble!
+Artist:Nazuna Shishou (CV: Yamamoto Ayano) & Kobotoke-tei Channagi (CV: Sakura Kaoru)
+ArtistUnicode:なずな師匠(CV: 山本彩乃)＆小仏亭ちゃんなぎ(CV: 佐倉薫)
+Creator:z1085684963
+Version:dahkjdas's Extra
+Source:CHUNITHM STAR PLUS
+Tags:japanese rock pop electronic D.watt(IOSYS) GO!GO!チュウニズム sega イロドリミドリ irodorimidori 天王洲なずな Tennouzu Nazuna 小仏凪 Kobotoke Nagi 七条レタス t+pazolite dahkjdas rui divivhako Calvaria
+BeatmapID:2982088
+BeatmapSetID:1438239

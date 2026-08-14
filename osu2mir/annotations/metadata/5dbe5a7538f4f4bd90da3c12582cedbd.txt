@@ -1,0 +1,10 @@
+Title:Shirushi (TV Size)
+TitleUnicode:シルシ (TV Size)
+Artist:LiSA
+ArtistUnicode:LiSA
+Creator:aigoh
+Version:Normal
+Source:ソードアート・オンラインⅡ
+Tags:Sword Art Online SAO ED ending 3 Mother's Rosario
+BeatmapID:1685618
+BeatmapSetID:232301

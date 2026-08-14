@@ -1,0 +1,10 @@
+Title:XENO
+TitleUnicode:XΣNΦ
+Artist:Hitsuji to Ojisan
+ArtistUnicode:ひつじとおじさん
+Creator:toybot
+Version:Expert
+Source:BMS
+Tags:ujico clone spectator kenterz kenterz9 lust bof2013 bms of fighters 2013 fantasia tano-c dtm チームたのしいDTM
+BeatmapID:660887
+BeatmapSetID:193373

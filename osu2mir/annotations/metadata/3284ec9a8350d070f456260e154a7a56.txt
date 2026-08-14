@@ -1,0 +1,10 @@
+Title:Brunch (Sequel to BreakFast)
+TitleUnicode:Brunch (Sequel to BreakFast)
+Artist:SniperSnake19
+ArtistUnicode:SniperSnake19
+Creator:grumd
+Version:Normal
+Source:
+Tags:[Luanny PhNyx] Shiro Odaril breakcore
+BeatmapID:181528
+BeatmapSetID:55235

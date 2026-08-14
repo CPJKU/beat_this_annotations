@@ -1,0 +1,10 @@
+Title:Hikari
+TitleUnicode:ヒカリ
+Artist:Satou Hiromi
+ArtistUnicode:佐藤ひろ美
+Creator:allein
+Version:Expert
+Source:ジサツのための101の方法
+Tags:jisatsu101 jisatsu no tame 101 houhou japanese video game visual novel vn denpa opening pop rock
+BeatmapID:3960019
+BeatmapSetID:1918985

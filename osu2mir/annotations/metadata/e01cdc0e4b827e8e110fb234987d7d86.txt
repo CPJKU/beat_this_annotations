@@ -1,0 +1,10 @@
+Title:Palette
+TitleUnicode:Palette
+Artist:Hanatan
+ArtistUnicode:花たん
+Creator:Smoothie
+Version:Hard
+Source:
+Tags:meola Megurine Luka VOCALOID Solitude Freak Irreversible EvilElvis ユリカ YURiCa ゆよゆっぺ Yuyoyuppe
+BeatmapID:403095
+BeatmapSetID:165693

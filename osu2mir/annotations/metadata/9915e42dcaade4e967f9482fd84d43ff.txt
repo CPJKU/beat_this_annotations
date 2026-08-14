@@ -1,0 +1,10 @@
+Title:Platinum (Short Ver.)
+TitleUnicode:プラチナ (Short Ver.)
+Artist:Yuuki Aoi
+ArtistUnicode:悠木 碧
+Creator:Sekai-nyan
+Version:-kevincela-'s Easy
+Source:Card Captor Madoka
+Tags:alacat Flask -kevincela- kevincela Hinacle Opening MAD Parody Puella Magi Magica Kaname Sakura Kami Nomi zo Shiru Sekai Aoyama Mio Sakamoto Maaya The World God Only Knows
+BeatmapID:194057
+BeatmapSetID:65981

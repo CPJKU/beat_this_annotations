@@ -1,0 +1,10 @@
+Title:Kanade (TV Size)
+TitleUnicode:奏（かなで）(TV Size)
+Artist:Takagi-san (CV: Takahashi Rie)
+ArtistUnicode:高木さん（CV：高橋李依）
+Creator:Karen
+Version:Insane
+Source:からかい上手の高木さん２
+Tags:Karakai Jouzu no Takagi-san 2 skilled teaser takagi-san 一週間フレンズ。One week Isshuukan Friends 藤宮香織 雨宮天 Fujimiya Kaori Amamiya Sora japanese anime ed ending Cover Song Collection
+BeatmapID:2102010
+BeatmapSetID:1004335

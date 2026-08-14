@@ -1,0 +1,10 @@
+Title:Higurashi no Naku Koro ni
+TitleUnicode:ひぐらしのなく頃に
+Artist:Eiko Shimamiya
+ArtistUnicode:島みやえい子
+Creator:Okorin
+Version:Collab Easy
+Source:ひぐらしのなく頃に
+Tags:07th Expansion Kihhou EvilElvis J1NX1337 Yuii- Nozhomi Feerum Maruyu [Nicole] Yuzu- Vell Marin Okoratu Jinx Enhu When They Cry
+BeatmapID:949203
+BeatmapSetID:333543

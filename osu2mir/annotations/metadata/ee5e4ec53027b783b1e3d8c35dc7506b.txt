@@ -1,0 +1,10 @@
+Title:Fairytale,
+TitleUnicode:Fairytale,
+Artist:cillia
+ArtistUnicode:シリア
+Creator:Nevo
+Version:Torment
+Source:
+Tags:kyaami vocaloid vocaloid4 buzzG VY1V4 cover japanese rock nikakis fieryrage
+BeatmapID:2120935
+BeatmapSetID:1000669

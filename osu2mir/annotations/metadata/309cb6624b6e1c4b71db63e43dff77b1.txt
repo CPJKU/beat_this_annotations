@@ -1,0 +1,10 @@
+Title:Unknown Mother-Goose feat. Hatsune Miku
+TitleUnicode:アンノウン・マザーグース feat. 初音ミク
+Artist:wowaka
+ArtistUnicode:wowaka
+Creator:tutuhaha
+Version:Insane
+Source:
+Tags:vocaloid cut ver HabiHolic
+BeatmapID:1396330
+BeatmapSetID:658008

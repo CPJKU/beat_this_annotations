@@ -1,0 +1,10 @@
+Title:ROKI
+TitleUnicode:ロキ
+Artist:mafumafu feat. soraru
+ArtistUnicode:まふまふ feat. そらる
+Creator:AirinCat
+Version:Insane.
+Source:
+Tags:japanese pop jpop cover utaite mikitop みきとP daisan wave vocaloid rin kagamine 鏡音リン
+BeatmapID:3242402
+BeatmapSetID:1587613

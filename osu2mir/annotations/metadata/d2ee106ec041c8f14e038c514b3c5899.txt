@@ -1,0 +1,10 @@
+Title:Maritime Police
+TitleUnicode:Maritime Police
+Artist:Street
+ArtistUnicode:Street
+Creator:Mir
+Version:Easy
+Source:
+Tags:lasse c90 toyKasket rock SunFlowers House
+BeatmapID:1445843
+BeatmapSetID:681410

@@ -1,0 +1,10 @@
+Title:Kaikai Kitan (TV Size)
+TitleUnicode:廻廻奇譚 (TV Size)
+Artist:Eve
+ArtistUnicode:Eve
+Creator:Irohas
+Version:Normal
+Source:呪術廻戦
+Tags:mugiwarasekai pentori jujutsu kaisen sorcery fight opening pop j-pop jpop japanese anime
+BeatmapID:2678562
+BeatmapSetID:1276213

@@ -1,0 +1,10 @@
+Title:Kesenai Tsumi (TV Size)
+TitleUnicode:消せない罪 (TV Size)
+Artist:Kitade Nana
+ArtistUnicode:北出菜奈
+Creator:Yahuri
+Version:Normal
+Source:鋼の錬金術師
+Tags:Fullmetal Alchemist Hagane no Renkinjutsushi edward alphonse elric japanese rock jrock pop jpop anime ed ending
+BeatmapID:2417315
+BeatmapSetID:406578

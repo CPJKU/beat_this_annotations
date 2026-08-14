@@ -1,0 +1,10 @@
+Title:Hachigatsu no Yoru
+TitleUnicode:八月の夜
+Artist:Silent Siren
+ArtistUnicode:Silent Siren
+Creator:Kisses
+Version:Ufw's Hard
+Source:
+Tags:JPop Sylphi Underflow MrSergio Yoshida Sumire Umemura Hinako Yamauchi Aina Kurosaka Yukako 吉田菫 梅村妃奈子 山内あいな 黒坂優香子
+BeatmapID:995841
+BeatmapSetID:431708

@@ -1,0 +1,10 @@
+Title:poslednyaya pesnya o ney
+TitleUnicode:последняя песня о ней
+Artist:egor nats
+ArtistUnicode:егор натс
+Creator:Daycore
+Version:cami's hard
+Source:
+Tags:drum and bass dnb russian русский барханов alumetri cami gordon123 gordon yamakudzi mikan mikan- marvollo m_a_r_v_o_l_l_o shmiklak
+BeatmapID:1766217
+BeatmapSetID:844319

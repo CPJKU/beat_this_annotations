@@ -1,0 +1,10 @@
+Title:Mushroom Mother
+TitleUnicode:マッシュルームマザー
+Artist:PinocchioP
+ArtistUnicode:ピノキオP
+Creator:YunoFanatic
+Version:Easy
+Source:
+Tags:hatsune miku vocaloid onosakihito lilywhite tsusuko mingmichael
+BeatmapID:289034
+BeatmapSetID:102307

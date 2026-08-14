@@ -1,0 +1,10 @@
+Title:Shiwa
+TitleUnicode:しわ
+Artist:Hanatan
+ArtistUnicode:花たん
+Creator:Ami
+Version:Hard
+Source:
+Tags:nicovideo kyshiro vocaloid
+BeatmapID:339000
+BeatmapSetID:130704

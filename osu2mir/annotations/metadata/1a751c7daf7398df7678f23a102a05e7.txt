@@ -1,0 +1,10 @@
+Title:I Will Show You
+TitleUnicode:보여줄게
+Artist:Ailee
+ArtistUnicode:에일리
+Creator:Norman
+Version:Sonnyc's Normal
+Source:
+Tags:Hinsvar Sonnyc
+BeatmapID:249002
+BeatmapSetID:85732

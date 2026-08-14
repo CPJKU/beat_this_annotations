@@ -1,0 +1,10 @@
+Title:ninelie
+TitleUnicode:ninelie
+Artist:Aimer with chelly (EGOIST)
+ArtistUnicode:Aimer with chelly (EGOIST)
+Creator:jonathanlfj
+Version:Uso
+Source:甲鉄城のカバネリ
+Tags:CSLM captin1 Trust LunarSakuya 澤野弘之 Sawano Hiroyuki Kabaneri of the Iron Fortress koutetsujou no ed ending
+BeatmapID:953762
+BeatmapSetID:443879

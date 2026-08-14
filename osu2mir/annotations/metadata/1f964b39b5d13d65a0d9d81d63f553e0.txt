@@ -1,0 +1,10 @@
+Title:Wadatsumi
+TitleUnicode:海神
+Artist:TOTTO
+ArtistUnicode:兎々
+Creator:Desperate-kun
+Version:Krimek's Insane
+Source:REFLEC BEAT colette -Summer-
+Tags:konami コレットフィッシング German Mapping Contest Mao Yauxo Irreversible Zetera Sala- Pho Krimek Konei Okoratu Snaggletooth
+BeatmapID:775362
+BeatmapSetID:351828

@@ -1,0 +1,10 @@
+Title:No. 5
+TitleUnicode:N°5
+Artist:Kamisama Club
+ArtistUnicode:神様クラブ
+Creator:dsco
+Version:Normal
+Source:
+Tags:number jura art pop electronic japanese japan tokiko fsjallink fanzhen
+BeatmapID:3475432
+BeatmapSetID:1626872

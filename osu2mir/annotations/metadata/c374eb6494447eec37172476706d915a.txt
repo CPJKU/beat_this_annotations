@@ -1,0 +1,10 @@
+Title:Koise yo Minna, Hai! (TV Size)
+TitleUnicode:恋せよみんな、ハイ！(TV Size)
+Artist:Pyxis
+ArtistUnicode:Pyxis
+Creator:Imakuri
+Version:Hard
+Source:ノブナガ先生の幼な妻
+Tags:ピクシス pop jpop japanese anime nobnaga-sensei no osanazuma
+BeatmapID:2054966
+BeatmapSetID:981859

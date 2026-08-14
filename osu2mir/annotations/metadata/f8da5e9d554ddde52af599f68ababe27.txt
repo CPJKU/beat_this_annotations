@@ -1,0 +1,10 @@
+Title:1/2
+TitleUnicode:1/2
+Artist:Kawamoto Makoto
+ArtistUnicode:川本真琴
+Creator:Natsu
+Version:Insane
+Source:るろうに剣心-明治剣客浪漫譚-
+Tags:opening El Guerrero samurai x Rurouni Kenshin Meiji Kenkaku Romantan One Half
+BeatmapID:519405
+BeatmapSetID:222119

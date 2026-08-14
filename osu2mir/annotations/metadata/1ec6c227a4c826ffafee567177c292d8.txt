@@ -1,0 +1,10 @@
+Title:LEO
+TitleUnicode:LEO
+Artist:Eve
+ArtistUnicode:Eve
+Creator:modding queue
+Version:Distorted Emotions
+Source:
+Tags:smile numa mah japanese pop j-pop jpop utaite ermi fuju
+BeatmapID:2333529
+BeatmapSetID:1117083

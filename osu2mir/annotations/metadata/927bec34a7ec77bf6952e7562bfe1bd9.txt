@@ -1,0 +1,10 @@
+Title:Aishite
+TitleUnicode:アイシテ
+Artist:Hiina
+ArtistUnicode:柊南
+Creator:ktgster
+Version:Normal
+Source:
+Tags:pop japanese cover love me ひいな utaite
+BeatmapID:3247460
+BeatmapSetID:1564795

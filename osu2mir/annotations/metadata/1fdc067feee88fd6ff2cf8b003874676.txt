@@ -1,0 +1,10 @@
+Title:You Belong With Me
+TitleUnicode:You Belong With Me
+Artist:Taylor Swift
+ArtistUnicode:Taylor Swift
+Creator:ErufenRito
+Version:Taiko Oni
+Source:
+Tags:Verdisphena aabc271 DaxMasterix
+BeatmapID:171615
+BeatmapSetID:46266

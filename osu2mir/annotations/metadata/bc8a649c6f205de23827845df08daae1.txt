@@ -1,0 +1,10 @@
+Title:Picotto! Papitto!! GARUPA*PICO!!! (TV Size)
+TitleUnicode:ピコっと！パピっと！！ガルパ☆ピコ！！！ (TV Size)
+Artist:Aimi, Sakura Ayane, Maeshima Ami, Aiba Aina, Itou Miku
+ArtistUnicode:愛美、 佐倉綾音、 前島亜美、 相羽あいな、 伊藤美来
+Creator:-Aqua
+Version:French Fry Cookies
+Source:BanG Dream! ガルパ☆ピコ
+Tags:バンドリ！ ガールズバンドパーティ！ Bandori! Girls Band Party! ガルパ Garupa insert cover original song Bandori project Girl Party Garupa! Rozeria ロゼリア Kudō Haruka Kudo Kudou Kudoharu Kdhr Fries 工藤晴香 Hikawa Sayo 氷川紗夜 Yonaka- Yonaka Moge-ko Mogeko Moge ko newton- newton Atalanta 香澄×蘭×彩×友希那×こころ Kasumi x Ran x Aya x Yukina x Kokoro 戸山香澄 Toyama 美竹蘭 Mitake Miitake 丸山彩 Maruyama 湊友希那 Minato 弦巻こころ Tsurumaki garupico Poppin’Party Poppin'Party Poppin Party Popipa Afterglow Roselia Pastel＊Palettes Pastel*Palettes Pastel Palletes ハロー、ハッピーワールド！ Hello, Happy World! Hello World
+BeatmapID:1697645
+BeatmapSetID:809023

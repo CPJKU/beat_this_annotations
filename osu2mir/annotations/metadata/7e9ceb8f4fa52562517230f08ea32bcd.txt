@@ -1,0 +1,10 @@
+Title:Towa yori Towa ni
+TitleUnicode:永久より永遠に
+Artist:marina
+ArtistUnicode:marina
+Creator:terametis
+Version:Easy N/A
+Source:少女神域∽少女天獄 -The Garden of Fifth Zoa-
+Tags:NewRulerNA wring Lass shoujo shiniki tengoku
+BeatmapID:363725
+BeatmapSetID:143507

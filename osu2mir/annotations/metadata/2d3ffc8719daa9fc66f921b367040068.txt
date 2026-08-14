@@ -1,0 +1,10 @@
+Title:Kiss no Hitotsu de
+TitleUnicode:キスのひとつで
+Artist:Sasaki Sayaka
+ArtistUnicode:佐咲紗花
+Creator:Left
+Version:Serenade
+Source:ちいさな彼女の小夜曲
+Tags:chiisana kanojo no serenade ending Kalibe Akitoshi Garden Yamicchi SnowNiNo_
+BeatmapID:1293772
+BeatmapSetID:613158

@@ -1,0 +1,10 @@
+Title:Sengoku HOP
+TitleUnicode:戦国HOP 
+Artist:YUC'e
+ArtistUnicode:ゆーしえ
+Creator:Nathan
+Version:apple's Insane
+Source:
+Tags:glitch hop gamu sukinathan appleeaterx athenarium
+BeatmapID:1489274
+BeatmapSetID:564329

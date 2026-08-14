@@ -1,0 +1,10 @@
+Title:Urami no Waltz
+TitleUnicode:うらみのワルツ
+Artist:KikuoHana
+ArtistUnicode:きくおはな
+Creator:SMOKELIND
+Version:EX
+Source:
+Tags:Waltz of Malice Hanatan 花たん YURiCa  ユリカ 第一幕 1 First Act Daiichi Maku Japanese Rock Jazz iljaaz FuJu frozz -Keqing Keqing Crissa Eula-
+BeatmapID:3172579
+BeatmapSetID:1552723

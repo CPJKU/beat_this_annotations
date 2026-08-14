@@ -1,0 +1,10 @@
+Title:Super Driver
+TitleUnicode:Super Driver
+Artist:Will Stetson
+ArtistUnicode:Will Stetson
+Creator:Sotarks
+Version:A r M i N's Extra
+Source:涼宮ハルヒの憂鬱
+Tags:The Melancholy of Haruhi Suzumiya edit cut ver version akitoshi corinn -laura- nikakis snownino_ rolniczy greenhue armin a_r_m_i_n fieryrage eiri- ayyri realazy aya hirano cover
+BeatmapID:1694501
+BeatmapSetID:805224

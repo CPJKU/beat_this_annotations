@@ -1,0 +1,10 @@
+Title:Aruji Naki Sono Koe (TV Size)
+TitleUnicode:主なきその声 (TV Size)
+Artist:NO NAME
+ArtistUnicode:NO NAME
+Creator:BeatofIke
+Version:Easy
+Source:AKB0048 next stage
+Tags:idol opening AKB48 SKE48 NMB48 Satelight nich95 Nichiyouki
+BeatmapID:209776
+BeatmapSetID:73717

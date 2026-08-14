@@ -1,0 +1,10 @@
+Title:Stellalude
+TitleUnicode:Stellalude
+Artist:BlackY feat. Risa Yuzuki
+ArtistUnicode:BlackY feat. Risa Yuzuki
+Creator:Hinsvar
+Version:Insane
+Source:
+Tags:柚木梨沙 Luminaria ゆずりさ Yuzurisa Japanese Pop J-Pop JPop Electronic Electropop Electro Featured Artist FA Mappers' Guild MPG
+BeatmapID:3139469
+BeatmapSetID:1515209

@@ -1,0 +1,10 @@
+Title:Aimai Elegy
+TitleUnicode:愛迷エレジー
+Artist:96neko
+ArtistUnicode:96猫
+Creator:Lasse
+Version:Insane
+Source:
+Tags:DECO*27 deco27  love-lost utaite cover memoReal
+BeatmapID:1262472
+BeatmapSetID:596833

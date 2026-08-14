@@ -1,0 +1,10 @@
+Title:Ikenai Borderline
+TitleUnicode:いけないボーダーライン
+Artist:WALKUERE
+ArtistUnicode:ワルキューレ
+Creator:Rizia
+Version:Insane
+Source:マクロスΔ
+Tags:Macross Delta kawaiwkyik wkyik kacha ShiraKai Minakami Yuki Koiyuki Freyja Wion Mikumo Guynemer Kaname Buccaneer Makina Nakajima Reina Prowler Minori Suzuki Koshimizu Ami Nishida Nozomi Toyama Nao Yasuno Kiyono JUNNA
+BeatmapID:975036
+BeatmapSetID:454835

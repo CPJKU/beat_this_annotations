@@ -1,0 +1,10 @@
+Title:Keppekishou
+TitleUnicode:ケッペキショウ
+Artist:scop
+ArtistUnicode:すこっぷ
+Creator:tutuhaha
+Version:Dance
+Source:
+Tags:Megpoid GUMI Vocaloid
+BeatmapID:201731
+BeatmapSetID:70115

@@ -1,0 +1,10 @@
+Title:Kodoku no Kakurenbo
+TitleUnicode:孤独ノ隠レンボ
+Artist:Himeringo
+ArtistUnicode:ひめりんご
+Creator:Asahina Momoko
+Version:Frey's Insane
+Source:
+Tags:vocaloid IA 150P utaite nico douga mokori m_o_k_o_r_i winber1 halloween reol Frey CloudSplash16 little sionkotori
+BeatmapID:804824
+BeatmapSetID:319791

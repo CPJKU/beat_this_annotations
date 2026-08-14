@@ -1,0 +1,10 @@
+Title:Hoshikuzu Orchestra
+TitleUnicode:星屑オーケストラ
+Artist:HAG
+ArtistUnicode:H△G
+Creator:C O N N E R
+Version:Asuka_-'s Insane
+Source:
+Tags:ハグ hagu vocaloid cover album pop jpop j-pop mili full ver ハヤブサ [_lost_] conner c_o_n_n_e_r asuka_- door weapon xiced
+BeatmapID:2054881
+BeatmapSetID:804193

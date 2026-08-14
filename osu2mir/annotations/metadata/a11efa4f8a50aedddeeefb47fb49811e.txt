@@ -1,0 +1,10 @@
+Title:Tokohana
+TitleUnicode:トコハナ
+Artist:yanaginagi
+ArtistUnicode:やなぎなぎ
+Creator:HabiHolic
+Version:Kanto's Insane
+Source:ブラック・ブレット
+Tags:black bullet kinema citrus ending no_gu KantoKun mingmichael
+BeatmapID:428931
+BeatmapSetID:168201

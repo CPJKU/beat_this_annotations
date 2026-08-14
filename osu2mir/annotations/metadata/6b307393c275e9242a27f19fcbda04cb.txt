@@ -1,0 +1,10 @@
+Title:Lost Time Memory (TV Size)
+TitleUnicode:ロスタイムメモリー (TV Size)
+Artist:JIN ft. Matsuyama Kouta (BYEE the ROUND)
+ArtistUnicode:じん ft. 松山晃太（BYEE the ROUND）
+Creator:Nevo
+Version:Shunao's Normal
+Source:メカクシティアクターズ
+Tags:vocaloid ia Mekakucity Actors project カゲロウプロジェク 中西亮輔 Ryosuke Nakanishi cover ia/vt colorful 自然の敵P Shizen no Teki P Teki-P TekiP じん Blindfold mekakucity actors daze カゲロウプロジェクト  Shunao armin a_r_m_i_n Lasse shogunmoon Nao Tomori naotoshi Kalibe project
+BeatmapID:1650078
+BeatmapSetID:768638

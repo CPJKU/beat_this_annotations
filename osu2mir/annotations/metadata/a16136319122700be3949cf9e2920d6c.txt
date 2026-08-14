@@ -1,0 +1,10 @@
+Title:Xevel
+TitleUnicode:Xevel
+Artist:Tatsh
+ArtistUnicode:Tatsh
+Creator:emu1337
+Version:Extra
+Source:CHUNITHM STAR
+Tags:electronic english tynamo -tynamo ratina0 sleepy sleepymateo TatshMusicCircle Xepher SOUND VOLTEX IV HEAVENLY HAVEN maimai MiLK PLUS GROOVE COASTER STARLIGHT ROAD グルーヴコースター 4 スターライトロード
+BeatmapID:2606880
+BeatmapSetID:1254404

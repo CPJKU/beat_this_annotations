@@ -1,0 +1,10 @@
+Title:Kodoku no Kakurenbo
+TitleUnicode:孤独ノ隠レンボ
+Artist:A-ya (CV: Ogata Megumi)
+ArtistUnicode:A弥 (CV: 緒方恵美)
+Creator:Nevo
+Version:Smoke's Normal
+Source:終焉ノ栞プロジェクト
+Tags:vocaloid IA cover Shuuen no Shiori aya Hide and Seek of Isolation 終焉-Re.act- bookmark demise project yukiyo frontier -_frontier_- nikakis lukas seolv synderes frostwich kowari agatsu smoke himeringo 150p japanese novelty suzumu Lonely
+BeatmapID:2285111
+BeatmapSetID:1044564

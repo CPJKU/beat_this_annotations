@@ -1,0 +1,10 @@
+Title:Kesshou
+TitleUnicode:結証
+Artist:Ryokuoushoku Shakai
+ArtistUnicode:緑黄色社会
+Creator:Deca
+Version:Collab Nightfall
+Source:半妖の夜叉姫
+Tags:agatsu bongo collab princess half-demon リョクシャカ ryokushaka 長屋晴子 haruko nagaya 小林壱誓 issei kobayashi 穴見真吾 shingo anami 犬夜叉 inuyasha hanyou no yashahime decagatsu japanese rock pop
+BeatmapID:2831393
+BeatmapSetID:1369270

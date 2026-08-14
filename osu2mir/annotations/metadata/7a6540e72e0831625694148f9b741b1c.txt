@@ -1,0 +1,10 @@
+Title:Susume*Tomorrow (TV Size)
+TitleUnicode:ススメ→トゥモロウ(TVサイズ)
+Artist:u's
+ArtistUnicode:μ's
+Creator:Atsuro
+Version:Easy
+Source:Love Live! School idol project
+Tags:Sunrise ラブライブ muse Kousaka Honoka Minami Kotori Sonoda Umi Emi Nitta Aya Uchida Suzuko Mimori START:DASH!! ending
+BeatmapID:538273
+BeatmapSetID:228109

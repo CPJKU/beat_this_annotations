@@ -1,0 +1,10 @@
+Title:Fukagyaku Replace
+TitleUnicode:不可逆リプレイス
+Artist:MY FIRST STORY
+ArtistUnicode:MY FIRST STORY
+Creator:Akitoshi
+Version:Hard
+Source:信長協奏曲
+Tags:Nobunaga Concerto Ending TV Size Asagi Ster koliron Irreversible Chara
+BeatmapID:756445
+BeatmapSetID:342218

@@ -1,0 +1,10 @@
+Title:escape (TV Size)
+TitleUnicode:escape (TV Size)
+Artist:XX:me
+ArtistUnicode:XX:me
+Creator:Nozhomi
+Version:Normal
+Source:ダーリン・イン・ザ・フランキス
+Tags:darling in the franxx ed ending キス・ミー kiss me mir pachiru spotty
+BeatmapID:1644652
+BeatmapSetID:782869

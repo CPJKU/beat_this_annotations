@@ -1,0 +1,10 @@
+Title:Tokohana
+TitleUnicode:トコハナ
+Artist:yanaginagi
+ArtistUnicode:やなぎなぎ
+Creator:P A N
+Version:Insane
+Source:ブラック・ブレット
+Tags:ending black_bullet sharlo p_a_n
+BeatmapID:435273
+BeatmapSetID:181310

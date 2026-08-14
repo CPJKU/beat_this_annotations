@@ -1,0 +1,10 @@
+Title:Pastel Rain
+TitleUnicode:パステルレイン
+Artist:Sangatsu no Phantasia
+ArtistUnicode:三月のパンタシア
+Creator:deetz
+Version:Insane
+Source:
+Tags:japanese rock pop Mia Shota Horie Yumao ガールズブルー・ハッピーサッド ガールズブルー ハッピーサッド girl's blue happy sad みあ 堀江 晶太
+BeatmapID:2224260
+BeatmapSetID:1060431

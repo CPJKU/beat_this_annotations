@@ -1,0 +1,10 @@
+Title:Discomdance
+TitleUnicode:ディスコムダンス
+Artist:YUKA NAGASE
+ArtistUnicode:長瀬有花
+Creator:Kudou Chitose
+Version:NAMKI'S INSANE
+Source:
+Tags:riot music riotmusic vtuber vsinger virtual youtuber singer lonepi japanese pop jpop j-pop female vocals vocalist mrrrk namki
+BeatmapID:3367995
+BeatmapSetID:1636898

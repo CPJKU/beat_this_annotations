@@ -1,0 +1,10 @@
+Title:Bubblegum K.K.
+TitleUnicode:けけアイドル
+Artist:Atsuko Asahi & Manaka Kataoka
+ArtistUnicode:朝日温子 & 片岡真央
+Creator:Veridian
+Version:Simple
+Source:とびだせ どうぶつの森
+Tags:Keke Aidoru PolkaMocha Polka Slider Nintendo Aircheck Good Animal crossing crossing: new leaf kk pop radio
+BeatmapID:1281646
+BeatmapSetID:364938

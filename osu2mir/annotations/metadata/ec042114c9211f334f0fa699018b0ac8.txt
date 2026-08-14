@@ -1,0 +1,10 @@
+Title:Asu no Yozora Shoukaihan
+TitleUnicode:アスノヨゾラ哨戒班
+Artist:Orangestar
+ArtistUnicode:Orangestar
+Creator:Gelbana
+Version:Hard
+Source:
+Tags:ia -ARIA ON THE PLANETES- vocaloid m.b. tsumetaku crn caren_sk iyasine
+BeatmapID:526239
+BeatmapSetID:219728

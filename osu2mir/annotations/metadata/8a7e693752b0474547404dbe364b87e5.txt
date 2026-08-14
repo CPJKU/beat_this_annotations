@@ -1,0 +1,10 @@
+Title:Playing with Ruby
+TitleUnicode:ルビーと遊ぶ
+Artist:NIWASHI
+ArtistUnicode:庭師
+Creator:Down
+Version:Extreme
+Source:
+Tags:owc final nm6 jazz Instrumental rubi to asobu
+BeatmapID:2708983
+BeatmapSetID:1306570

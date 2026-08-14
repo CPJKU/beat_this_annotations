@@ -1,0 +1,10 @@
+Title:Kakatte Koi yo
+TitleUnicode:かかってこいよ
+Artist:NakamuraEmi
+ArtistUnicode:NakamuraEmi
+Creator:Milan-
+Version:Hard
+Source:MEGALOBOX
+Tags:yugu pishifat メガロボクス
+BeatmapID:1621637
+BeatmapSetID:766410

@@ -1,0 +1,10 @@
+Title:Doomsday
+TitleUnicode:Doomsday
+Artist:Mediks
+ArtistUnicode:Mediks
+Creator:Strategas
+Version:Hard
+Source:
+Tags:outbreak zombie dnb ep 2012 drum & and bass wub
+BeatmapID:1233319
+BeatmapSetID:545677

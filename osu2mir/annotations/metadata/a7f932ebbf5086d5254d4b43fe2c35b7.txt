@@ -1,0 +1,10 @@
+Title:I Want You (TV Size)
+TitleUnicode:I Want You (TV Size)
+Artist:Savage Garden
+ArtistUnicode:Savage Garden
+Creator:ztrot
+Version:Easy
+Source:ジョジョの奇妙な冒険 ダイヤモンドは砕けない
+Tags:JoJo's Bizarre Adventure: Diamond Is Unbreakable Voli Synitri short version English Anime jjba Pop Synth Synth-pop
+BeatmapID:1156354
+BeatmapSetID:527051

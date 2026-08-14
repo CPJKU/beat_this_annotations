@@ -1,0 +1,10 @@
+Title:Maps
+TitleUnicode:Maps
+Artist:Maroon 5
+ArtistUnicode:Maroon 5
+Creator:Mosebye
+Version:Expert
+Source:
+Tags:english pop V five adam levine v0ltia voltia
+BeatmapID:3216084
+BeatmapSetID:1575172

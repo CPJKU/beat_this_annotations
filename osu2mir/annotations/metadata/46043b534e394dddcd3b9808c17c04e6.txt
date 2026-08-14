@@ -1,0 +1,10 @@
+Title:Tenshinranman High Collar Hime
+TitleUnicode:天真爛漫高襟姫
+Artist:capitaro
+ArtistUnicode:かぴたろう
+Creator:Midasmens
+Version:Easy
+Source:
+Tags:hatsune miku tanaka banana kds kite xakyrie xcherry vocaloid
+BeatmapID:180760
+BeatmapSetID:55925

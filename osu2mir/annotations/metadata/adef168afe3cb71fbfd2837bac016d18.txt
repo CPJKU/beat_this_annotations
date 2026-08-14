@@ -1,0 +1,10 @@
+Title:Yuuki no Pendant
+TitleUnicode:勇気のペンダント
+Artist:Qrispy Joybox feat.Chata
+ArtistUnicode:Qrispy Joybox feat.茶太
+Creator:MrSergio
+Version:Normal
+Source:REFLEC BEAT 悠久のリフレシア
+Tags:Avena Priti tatsuya iyama the eternity of reflesia yuukyu no
+BeatmapID:1402950
+BeatmapSetID:638390

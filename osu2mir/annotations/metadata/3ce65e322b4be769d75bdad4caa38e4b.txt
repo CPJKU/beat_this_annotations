@@ -1,0 +1,10 @@
+Title:again (TV Size)
+TitleUnicode:again (TV Size)
+Artist:YUI
+ArtistUnicode:YUI
+Creator:Cellina
+Version:Dailycare's Expert
+Source:鋼の錬金術師 FULLMETAL ALCHEMIST
+Tags:dailycare reana morinaga reillia curi [c_u_r_i] anime opening japanese
+BeatmapID:1272504
+BeatmapSetID:602444

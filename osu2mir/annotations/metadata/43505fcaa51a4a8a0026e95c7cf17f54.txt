@@ -1,0 +1,10 @@
+Title:VIP KID
+TitleUnicode:VIP KID
+Artist:REOL
+ArtistUnicode:REOL
+Creator:Sparhten
+Version:Renfu's Extra
+Source:
+Tags:Amiya Sigma Japanese J-Pop pop RΞOL GigaP Okiku れをる DeRandom Otaku Mentai Chizuru xchippy Chaoslitz fuju SnowNiNo_  お菊 ギガ Σ Sotai Soutai Sekai The Relative Worlds ソウタイセカイ
+BeatmapID:2428497
+BeatmapSetID:1164168

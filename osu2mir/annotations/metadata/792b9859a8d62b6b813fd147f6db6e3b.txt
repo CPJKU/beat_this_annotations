@@ -1,0 +1,10 @@
+Title:Crossfire
+TitleUnicode:Crossfire
+Artist:Stephen
+ArtistUnicode:Stephen
+Creator:AirinCat
+Version:Hard
+Source:
+Tags:sincerely indie alternative
+BeatmapID:2135932
+BeatmapSetID:1020800

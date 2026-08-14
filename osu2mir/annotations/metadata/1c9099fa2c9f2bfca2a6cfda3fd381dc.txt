@@ -1,0 +1,10 @@
+Title:Routine
+TitleUnicode:Routine
+Artist:Silent Siren
+ArtistUnicode:サイレントサイレン
+Creator:sukiNathan
+Version:Normal
+Source:
+Tags:jpop j-pop aina yamauchi yukako kurosaka hinako umemura sumire yoshida ayana sōgawa sogawa giralda
+BeatmapID:881354
+BeatmapSetID:396745

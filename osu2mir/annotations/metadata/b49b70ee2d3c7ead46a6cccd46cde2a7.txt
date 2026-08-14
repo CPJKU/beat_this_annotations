@@ -1,0 +1,10 @@
+Title:Club Ibuki in Break All
+TitleUnicode:Club Ibuki in Break All
+Artist:IOSYS
+ArtistUnicode:IOSYS
+Creator:TheMefisto
+Version:Insane
+Source:東方萃夢想　～ Immaterial and Missing Power.
+Tags:PUNK IT! TOUHOU! ちよこ chiyoki loreley Anishina Kodoku PantyDev Djulus
+BeatmapID:1889137
+BeatmapSetID:751755

@@ -1,0 +1,10 @@
+Title:Higurashi Moratorium
+TitleUnicode:茅蜩モラトリアム
+Artist:Amatsuki
+ArtistUnicode:天月
+Creator:Nevo
+Version:Airin's Hard
+Source:
+Tags:TOTAL OBJECTION Vocaloid Megpoid GUMI xchorse yukiyo lasse airincat
+BeatmapID:1975297
+BeatmapSetID:931886

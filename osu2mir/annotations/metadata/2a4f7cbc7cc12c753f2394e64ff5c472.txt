@@ -1,0 +1,6 @@
+Title:Russian Snowy Dance
+Artist:Mutsuhiko Izumi
+Creator:Chocopikel
+Version:Normal
+Source:jubeat
+Tags:ripples

@@ -1,0 +1,10 @@
+Title:Babaroque (Short Ver.)
+TitleUnicode:Babaroque (Short Ver.)
+Artist:cYsmix
+ArtistUnicode:cYsmix
+Creator:Mao
+Version:Easy
+Source:
+Tags:kusemono records oracle niva chaoslitz mir mappers' lounge fa featured artist
+BeatmapID:1660762
+BeatmapSetID:791667

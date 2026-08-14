@@ -1,0 +1,10 @@
+Title:Netsujou no Spectrum
+TitleUnicode:热情のスペクトラム
+Artist:Ikimono Gakari
+ArtistUnicode:いきものがかり
+Creator:xxdeathx
+Version:Sins
+Source:Nanatsu no Taizai
+Tags:opening tv_size 七つの大罪 the seven deadly sins kibbleru soga tt_mouse
+BeatmapID:540798
+BeatmapSetID:232935

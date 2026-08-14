@@ -1,0 +1,10 @@
+Title:quaver
+TitleUnicode:quaver ♪
+Artist:dj TAKA
+ArtistUnicode:dj TAKA
+Creator:Sotarks
+Version:Monstrata's Ultimate Crescendo
+Source:REFLEC BEAT limelight
+Tags:risk junk beatmania IIDX 19 Lincle jubeat saucer jukebeat KONAMI music pack 25 pop'n music Sunny Park plus MUSIC PACK 29 + ポップンリズミン パック1 MUSIC PACK 19 cut edit short ver version akitoshi corinn -laura- myxomatosis desperate-kun shunao shogunmoon kencho yukiyo snownino_ reform kujinn yuii- eiri- ayyri doormat lasse onlybiscuit armin a_r_m_i_n kyuukai yaleufeu nevo monstrata fieryrage fiery
+BeatmapID:1849273
+BeatmapSetID:873811

@@ -1,0 +1,10 @@
+Title:Purity Red
+TitleUnicode:Purity Red
+Artist:Amane
+ArtistUnicode:Amane
+Creator:TicClick
+Version:Ono's Taiko Oni
+Source:Touhou
+Tags:Electro Cute dubstep OnosakiHito U.N. Owen Was Her Flandre Embodiment Of Scarlet Devil th06 Vass_Bass
+BeatmapID:349890
+BeatmapSetID:121064

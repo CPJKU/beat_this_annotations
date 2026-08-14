@@ -1,0 +1,10 @@
+Title:Pre-Parade (TV Size)
+TitleUnicode:プレパレード (TV Size)
+Artist:Kugimiya Rie, Kitamura Eri & Horie Yui
+ArtistUnicode:釘宮 理恵、喜多村 英梨＆堀江 由衣
+Creator:B2IN
+Version:KG's Taiko Oni
+Source:Toradora!
+Tags:-Kirito kg2161012 opening taiga
+BeatmapID:209592
+BeatmapSetID:69158

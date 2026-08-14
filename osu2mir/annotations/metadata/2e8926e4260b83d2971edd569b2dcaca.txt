@@ -1,0 +1,10 @@
+Title:Rave-up Tonight
+TitleUnicode:Rave-up Tonight
+Artist:Fear, and Loathing in Las Vegas
+ArtistUnicode:Fear, and Loathing in Las Vegas
+Creator:lightr
+Version:Natsu's Normal
+Source:
+Tags:J-pop Electronic core post-hardcore dance Jemmmmy Natsu PHASE 2 MOBILE SUIT GUNDAM EXTREME VS. MAXI BOOST
+BeatmapID:535293
+BeatmapSetID:176832

@@ -1,0 +1,10 @@
+Title:Day to Story (TV Size)
+TitleUnicode:Day to Story (TV Size)
+Artist:Kaori Sadohara
+ArtistUnicode:佐土原かおり
+Creator:Karia
+Version:Easy
+Source:デート・ア・ライブ Ⅱ
+Tags:ending date a live 2 Mugiwarasekai Irohas Neoskylove
+BeatmapID:1457274
+BeatmapSetID:434845

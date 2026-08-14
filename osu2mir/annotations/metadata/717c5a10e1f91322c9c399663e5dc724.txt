@@ -1,0 +1,10 @@
+Title:Presenter*
+TitleUnicode:ぷれぜんたー☆
+Artist:Aitsuki Nakuru
+ArtistUnicode:藍月なくる
+Creator:toybot
+Version:Lasse's Extra
+Source:
+Tags:nacollection!! 2 a than_lily bluoxy flask lasse
+BeatmapID:1777497
+BeatmapSetID:799156

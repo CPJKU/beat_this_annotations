@@ -1,0 +1,10 @@
+Title:Sapphire On Fire
+TitleUnicode:燃えよサファイア
+Artist:NIWASHI
+ArtistUnicode:庭師
+Creator:DeviousPanda
+Version:PaRaDogi's Hard
+Source:太鼓の達人
+Tags:jazz instrumental taiko no tatsujin ドンだー！世界一決定戦2021 Donder! WORLD CHAMPIONSHIP 2021 PaRaDogi Down seolv lukas [_l_u_k_a_s_] Feiri moe yo ニジイロVer.2021
+BeatmapID:3014569
+BeatmapSetID:1461145

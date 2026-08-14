@@ -1,0 +1,10 @@
+Title:miragecoordinator
+TitleUnicode:miragecoordinator
+Artist:zts
+ArtistUnicode:zts
+Creator:Mirash
+Version:Perversion
+Source:うみねこのなく頃に
+Tags:jounzan evilelvis v2 code zts label musicbox red czl umineko no naku koro ni marathon visual novel vn 07th expansion
+BeatmapID:1383876
+BeatmapSetID:652668

@@ -1,0 +1,10 @@
+Title:Guren no Yumiya
+TitleUnicode:紅蓮の弓矢
+Artist:Roselia
+ArtistUnicode:Roselia
+Creator:Trynna
+Version:Sotarks' Bloody Twilight
+Source:BanG Dream! ガールズバンドパーティ！
+Tags:Bossandy Lafayla Noffy Sotarks Net0 バンドリ！ Girls Band Party! ロゼリア  湊 友希那 Yukina Minato 相羽 あいな Aiba Aina 氷川 紗夜 Sayo Hikawa 工藤晴香 Kudou Haruka 今井 リサ Lisa Imai 遠藤ゆりか Endou Yurika 中島 由貴 Nakashima Yuki 宇田川 あこ Ako Udagawa 桜川 めぐ Sakuragawa Megu 白金 燐子  	Rinko Shirokane 明坂聡美 Akesaka Satomi 進撃の巨人 Shingeki no Kyojin Attack on Titan Linked Horizon
+BeatmapID:1730889
+BeatmapSetID:825409

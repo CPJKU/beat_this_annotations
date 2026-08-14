@@ -1,0 +1,10 @@
+Title:Story
+TitleUnicode:Story
+Artist:FELT
+ArtistUnicode:FELT
+Creator:Yohanes
+Version:Lunatic
+Source:東方Project
+Tags:美歌 NAGI☆ Mika ZUN Reitaisai SP2 kaeidzuka 東方花映塚 ～ Phantasmagoria of Flower View フラワリングナイト東方花映塚 th09 Sakuya Izayoi Flowering Night Touhou Rebirth yaldo_27 Fantastica Blizs Fizz
+BeatmapID:944709
+BeatmapSetID:297409

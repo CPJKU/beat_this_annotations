@@ -1,0 +1,10 @@
+Title:Chiisana Koi no Uta (Synth Rock Cover)
+TitleUnicode:小さな恋のうた (Synth Rock Cover)
+Artist:Omoi
+ArtistUnicode:Omoi
+Creator:val0108
+Version:Marianna's Insane
+Source:
+Tags:Hatsune_Miku Miku vocaloid M_a_r_v_o_l_l_o Alphabet Kawashiro Marianna Frey Kroytz OnosakiHito Shmiklak Venax
+BeatmapID:1290043
+BeatmapSetID:609189

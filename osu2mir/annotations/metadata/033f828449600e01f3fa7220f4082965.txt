@@ -1,0 +1,10 @@
+Title:Futari Dake no Kotoba
+TitleUnicode:二人だけの言葉
+Artist:BUTAOTOME
+ArtistUnicode:豚乙女
+Creator:celerih
+Version:Together
+Source:東方地霊殿　～ Subterranean Animism.
+Tags:AIR Kirylln Nanashima Asami defiance osuskrub lego man bor 東方Project Touhou ランコ Ranko コンプ Comp 少女さとり　～ 3rd eye ハルトマンの妖怪少女 Hartmann's Youkai Girl 古明地　さとり Komeiji Satori Shoujo 古明地 こいし Komeiji Koishi 疑似家族入門 Giji Kazoku Nyuumon Pseudofamily Introduction buta otome
+BeatmapID:2015483
+BeatmapSetID:962568

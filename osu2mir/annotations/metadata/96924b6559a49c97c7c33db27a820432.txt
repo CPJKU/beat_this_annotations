@@ -1,0 +1,10 @@
+Title:Be
+TitleUnicode:Be
+Artist:Song Riders
+ArtistUnicode:Song Riders
+Creator:Yasora
+Version:Hard
+Source:DEVIL SURVIVOR2 the ANIMATION
+Tags:ending Shin Megami Tensei Trauma Atlus shikyu Niva Nivalis
+BeatmapID:265234
+BeatmapSetID:99832

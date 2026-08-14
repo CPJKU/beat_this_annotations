@@ -1,0 +1,10 @@
+Title:Burn
+TitleUnicode:Burn
+Artist:Ellie Goulding
+ArtistUnicode:Ellie Goulding
+Creator:Ultimate
+Version:Hard
+Source:
+Tags:Elly golding lights sb storyboard
+BeatmapID:303987
+BeatmapSetID:118166

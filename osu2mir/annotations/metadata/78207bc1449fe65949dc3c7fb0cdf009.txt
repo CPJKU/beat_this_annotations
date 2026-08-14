@@ -1,0 +1,10 @@
+Title:Cinderella
+TitleUnicode:シンデレラ
+Artist:CIDER GIRL
+ArtistUnicode:サイダーガール
+Creator:Chizu-Kun
+Version:Advanced
+Source:古見さんは、コミュ症です。
+Tags:komi can't communicate komi-san wa communication shougai desu. 古見硝子 komi shouko komyu komisan cant japanese anime opening op j-pop jpop pop
+BeatmapID:3516406
+BeatmapSetID:1719578

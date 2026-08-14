@@ -1,0 +1,10 @@
+Title:STARRY SKY
+TitleUnicode:STARRY SKY
+Artist:PassCode
+ArtistUnicode:PassCode
+Creator:Akitoshi
+Version:Hard
+Source:隕石家族
+Tags:Corinn -Laura- Inseki Kazoku Tokai Toukai TV Television Drama Japanese Pop Rock 高嶋楓 Takashima Kaede 南菜生 Minami Nao 今田夢菜 Imada Yuna 大上陽奈子 Oogami Hinako
+BeatmapID:2807986
+BeatmapSetID:1199549

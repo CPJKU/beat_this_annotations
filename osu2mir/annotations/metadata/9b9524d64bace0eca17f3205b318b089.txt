@@ -1,0 +1,10 @@
+Title:Snow Drive(01.23)
+TitleUnicode:スノウドライヴ(01.23)
+Artist:Omoi
+ArtistUnicode:Omoi
+Creator:Kroytz
+Version:Arigatou
+Source:
+Tags:Vocaloid Hatsune Miku k2pudding Battle HappyRocket88 Anxient pkk Rumia MoeMoeKyunNN moph SnowNiNo_
+BeatmapID:1083052
+BeatmapSetID:478405

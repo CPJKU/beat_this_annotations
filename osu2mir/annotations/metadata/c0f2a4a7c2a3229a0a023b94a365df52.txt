@@ -1,0 +1,10 @@
+Title:Yuugen
+TitleUnicode:幽玄
+Artist:TEARS OF TRAGEDY
+ArtistUnicode:TEARS OF TRAGEDY
+Creator:gazimal
+Version:ponbot x wring's collab Insane
+Source:
+Tags:TRINITY japanese Metal Rock j-rock jrock jmetal j-metal HARUKA TORU HAYATO shikibe mayu shizuku- kazato asa kazu2411 Oriental ponbot wring
+BeatmapID:3298735
+BeatmapSetID:1580085

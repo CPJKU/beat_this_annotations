@@ -1,0 +1,10 @@
+Title:Overture
+TitleUnicode:Overture
+Artist:MuryokuP
+ArtistUnicode:無力P
+Creator:Sephibro
+Version:Insane
+Source:
+Tags:your pianist piano instrumental megurine luka vocaloid pagno galvenize nemis
+BeatmapID:315816
+BeatmapSetID:122520

@@ -1,0 +1,10 @@
+Title:Senjou no Utahime
+TitleUnicode:戦場の歌姫
+Artist:La priere
+ArtistUnicode:La prière
+Creator:Hinsvar
+Version:Expert
+Source:
+Tags:らぷりえーる Diva of the battlefield 棗いつき Natsume Itsuki 藍月なくる Aitsuki Nakuru なゆた nayuta Galaxy Triangle かそかそ Kasokaso Prismagic Japanese Pop J-Pop JPop Rock J-Rock JRock
+BeatmapID:2892696
+BeatmapSetID:1398580

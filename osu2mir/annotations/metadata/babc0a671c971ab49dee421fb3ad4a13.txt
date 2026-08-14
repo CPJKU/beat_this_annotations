@@ -1,0 +1,10 @@
+Title:Infinity of Our Love
+TitleUnicode:Infinity of Our Love
+Artist:Nekomata Master feat.Joelle Strother
+ArtistUnicode:猫叉Master feat.Joelle Strother
+Creator:moph
+Version:Extra
+Source:エレビッツ カイとゼロの不思議な旅
+Tags:佐藤直之 Naoyuki Sato Elebits raindrops pop'n music 17 THE MOVIE ambient
+BeatmapID:1329559
+BeatmapSetID:629830

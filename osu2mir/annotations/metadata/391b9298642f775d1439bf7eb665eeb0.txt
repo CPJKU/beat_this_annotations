@@ -1,0 +1,10 @@
+Title:Horadric Cube
+TitleUnicode:Horadric Cube
+Artist:Abiotic
+ArtistUnicode:Abiotic
+Creator:Mazzerin
+Version:Insane
+Source:
+Tags:ikigai english technical death metal progressive deathcore
+BeatmapID:3148594
+BeatmapSetID:1540212

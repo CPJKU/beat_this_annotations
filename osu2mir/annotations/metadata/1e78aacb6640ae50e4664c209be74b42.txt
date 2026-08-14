@@ -1,0 +1,10 @@
+Title:Real World (TV Size)
+TitleUnicode:リアルワールド (TV Size)
+Artist:nano.RIPE
+ArtistUnicode:nano.RIPE
+Creator:Guy
+Version:Insane
+Source:Jinrui wa Suitai Shimashita
+Tags:maaagic opening alacat
+BeatmapID:200044
+BeatmapSetID:69328

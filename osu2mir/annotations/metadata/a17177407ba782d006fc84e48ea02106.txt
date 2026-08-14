@@ -1,0 +1,10 @@
+Title:DEAD OR LIE <TV Size>
+TitleUnicode:DEAD OR LIE ＜TVサイズ＞
+Artist:Maon Kurosaki feat.TRUSTRICK
+ArtistUnicode:黒崎真音feat.TRUSTRICK
+Creator:Chaoslitz
+Version:Future
+Source:ダンガンロンパ3-The End of 希望ヶ峰学園- 未来編
+Tags:Kibougamine Gakuen Mirai Hen 黒瀬圭亮 UROBOROS danganronpa dangan ronpa op The End of Hope's Peak Academy examination Frey
+BeatmapID:1028006
+BeatmapSetID:481696

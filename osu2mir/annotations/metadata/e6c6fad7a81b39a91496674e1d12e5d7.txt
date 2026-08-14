@@ -1,0 +1,10 @@
+Title:BIRTH
+TitleUnicode:BIRTH
+Artist:airportexpress feat.Itsuneko
+ArtistUnicode:airportexpress feat.伍猫
+Creator:Chloe
+Version:mint's Normal
+Source:神さまのいない日曜日
+Tags:IamKwaN Mintong mintong89 kawaiwkyik sunday without god Kamisama no Inai Nichiyoubi
+BeatmapID:430464
+BeatmapSetID:175241

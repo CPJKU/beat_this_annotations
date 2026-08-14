@@ -1,0 +1,10 @@
+Title:Classic Pursuit
+TitleUnicode:Classic Pursuit
+Artist:cYsmix
+ArtistUnicode:cYsmix
+Creator:-kevincela-
+Version:Normal
+Source:osu!
+Tags:oct. 2015 beatmapping challenge contest mapping with rewards mwr #2 halloween electro
+BeatmapID:1044378
+BeatmapSetID:488238

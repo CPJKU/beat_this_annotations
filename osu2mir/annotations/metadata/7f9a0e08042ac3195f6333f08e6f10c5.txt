@@ -1,0 +1,10 @@
+Title:Valkyrie-Ikusa Otome-
+TitleUnicode:Valkyrie-戦乙女-
+Artist:Wagakki Band
+ArtistUnicode:和楽器バンド
+Creator:Shiro
+Version:Hard
+Source:双星の陰陽師
+Tags:Odaril opening op akali twin star exorcists Sousei no Onmyoji
+BeatmapID:975962
+BeatmapSetID:452310

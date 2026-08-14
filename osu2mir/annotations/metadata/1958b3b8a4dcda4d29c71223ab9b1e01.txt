@@ -1,0 +1,10 @@
+Title:Shadow of Nemesis
+TitleUnicode:暗夜幽影
+Artist:HOYO-MiX
+ArtistUnicode:HOYO-MiX
+Creator:Stompy_
+Version:Normal
+Source:Genshin Impact
+Tags:animestyle ryxliee didah esutarosa nachmark dustinati The Stellar Moments Vol. 2 volume rosaria Thorny Benevolence video game vgm character theme ost mihoyo hoyoverse instrumental original soundtrack sound track 原神 electronic Yu-Peng Chen 陈致逸
+BeatmapID:3892281
+BeatmapSetID:1889624

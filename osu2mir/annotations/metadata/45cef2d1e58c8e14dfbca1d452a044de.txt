@@ -1,0 +1,10 @@
+Title:Kareshi no Jude
+TitleUnicode:カレシのジュード
+Artist:syudou
+ArtistUnicode:初音ミク
+Creator:Guchiry
+Version:Zekk's Normal
+Source:
+Tags:-syncro zekk bongo mononymous gygy hatsune miku [hatsune_miku] Vocaloid mononymous japanese pop jpop j-pop female vocal virtual singer vocasynth
+BeatmapID:3205400
+BeatmapSetID:1563334

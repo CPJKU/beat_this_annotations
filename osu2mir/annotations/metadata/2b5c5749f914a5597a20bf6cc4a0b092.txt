@@ -1,0 +1,10 @@
+Title:UNBALANCED LOVE
+TitleUnicode:UNBALANCED LOVE
+Artist:Printemps
+ArtistUnicode:Printemps
+Creator:ZZHBOY
+Version:Insane
+Source:ラブライブ！ School idol project
+Tags:高坂穂乃果 Kousaka Honoka 新田恵海 Nitta Emi 南ことり Minami Kotori 内田彩 Uchida Aya 小泉花陽 Koizumi Hanayo 久保ユリカ Kubo Yurika school idol project muse LL lovelive
+BeatmapID:674518
+BeatmapSetID:300750

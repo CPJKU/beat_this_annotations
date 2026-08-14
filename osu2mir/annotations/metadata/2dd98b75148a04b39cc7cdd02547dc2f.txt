@@ -1,0 +1,10 @@
+Title:Happy Ending Simulator
+TitleUnicode:Happy Ending Simulator
+Artist:nano
+ArtistUnicode:ナノ
+Creator:Umi
+Version:Insane
+Source:Gunslinger Stratos 2
+Tags:ガンスリンガーストラトス２ square enix guy laurier WEST GROUND
+BeatmapID:381977
+BeatmapSetID:155767

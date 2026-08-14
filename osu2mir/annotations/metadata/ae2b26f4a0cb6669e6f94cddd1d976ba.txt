@@ -1,0 +1,10 @@
+Title:Sakimori Renka
+TitleUnicode:防人恋歌
+Artist:Ax feat. Natsukawa Yoko
+ArtistUnicode:Ax feat. 夏川陽子
+Creator:Yusomi
+Version:Normal
+Source:pop'n music 18 せんごく列伝
+Tags:jubeat onoken sengoku retsuden video game japanese manyouka 万葉歌
+BeatmapID:2089203
+BeatmapSetID:998415

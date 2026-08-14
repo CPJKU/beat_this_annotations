@@ -1,0 +1,10 @@
+Title:Amenohoakari
+TitleUnicode:天火明命
+Artist:Sakuzyo
+ArtistUnicode:削除
+Creator:Firis Mistlud
+Version:Normal
+Source:maimai MURASAKi
+Tags:∀rkadia Arkadia オンゲキ Ongeki Miura Kurantemelodii krt Kyle_y how2miss Minorsonek M2Usonek
+BeatmapID:1588984
+BeatmapSetID:671056

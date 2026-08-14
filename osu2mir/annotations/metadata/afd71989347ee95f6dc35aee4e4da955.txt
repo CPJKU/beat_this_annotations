@@ -1,0 +1,10 @@
+Title:Sakamichi no Melody (TV Size)
+TitleUnicode:坂道のメロディ (TV Size)
+Artist:YUKI
+ArtistUnicode:YUKI
+Creator:mintong89
+Version:Normal
+Source:Sakamichi no Apollon
+Tags:drum guitar piano bass Silver Fran opening op Yoko Kanno Buhei
+BeatmapID:219350
+BeatmapSetID:78379

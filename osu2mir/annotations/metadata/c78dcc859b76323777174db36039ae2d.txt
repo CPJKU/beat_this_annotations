@@ -1,0 +1,10 @@
+Title:Anime o Katare! ~Animegatari Doukoukai no Thema~
+TitleUnicode:アニメを語レ！～アニメガタリ同好会のテーマ～
+Artist:Maya(CV.Minase Inori) & Erika(CV.Inami Anju)
+ArtistUnicode:マヤ(CV.水瀬いのり)＆エリカ(CV.伊波杏樹)
+Creator:Sotarks
+Version:Akitoshi's Normal
+Source:アニメガタリ
+Tags:Anime-Gatari animegatari W-Toon Studio kalibe haruto haruto_aizawa akitoshi corinn -Sh1n1- shini irohas mugiwarasekai milan- toybot
+BeatmapID:1367151
+BeatmapSetID:644332

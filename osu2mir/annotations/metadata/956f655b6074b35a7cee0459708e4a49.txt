@@ -1,0 +1,10 @@
+Title:MONSTER
+TitleUnicode:MONSTER
+Artist:Reol
+ArtistUnicode:れをる
+Creator:handsome
+Version:MOMOKO'S EXTRA
+Source:
+Tags:umetora reworu gokusaishoku -kevincela- regraz sharkie bearizm vinxis asahina momoko mokori fort byfar れをる 極彩色 梅とら
+BeatmapID:843597
+BeatmapSetID:366440
